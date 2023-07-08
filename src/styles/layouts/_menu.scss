@@ -1,0 +1,11 @@
+.menu{
+  grid-area: menu;
+  ul{
+    padding: 1rem;
+    background-color: $color-primary;
+    border-radius: 5px;
+    @include media-tablet {
+      padding: 1rem 0;
+    }
+  }
+}

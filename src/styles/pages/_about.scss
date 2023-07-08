@@ -1,0 +1,12 @@
+.about{
+  h3,h4{
+    margin-top: 1rem;
+  }
+}
+
+.about__description {
+  a{
+    text-decoration: underline;
+    color: $color-primary;
+  }
+}

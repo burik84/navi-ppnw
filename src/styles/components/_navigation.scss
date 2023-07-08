@@ -1,0 +1,45 @@
+.navigation {
+  margin: 0 auto;
+  @include media-tablet {
+    margin-left: 1rem;
+  }
+}
+.navigation__menu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  list-style-type: none;
+}
+.navigation__menu .item {
+  margin-right: 2rem;
+  @include media-tablet {
+    margin-right: 1rem;
+  }
+}
+
+.navigation__menu .link {
+  @extend %transition;
+  &:hover {
+    transform: scale(1.05);
+    color: $color-additional;
+    &:before {
+      background-color: $color-additional;
+    }
+  }
+  &.active {
+    color: $color-additional;
+    border-bottom: 2px solid $color-additional;
+    &:before {
+      background-color: $color-additional;
+    }
+  }
+  &:before {
+    content: '';
+    width: 5px;
+    height: 5px;
+    margin-right: 5px;
+    border-radius: 50%;
+    background-color: $color-light;
+    @extend %transition;
+  }
+}

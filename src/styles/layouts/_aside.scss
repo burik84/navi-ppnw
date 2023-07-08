@@ -1,0 +1,14 @@
+.aside {
+  grid-area: aside;
+}
+
+.aside__title {
+  width: 100%;
+  // max-width: 360px;
+  padding: 8px 14px 0;
+  background-color: $color-primary;
+  color: $color-background;
+  font-weight: normal;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}

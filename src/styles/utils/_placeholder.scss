@@ -1,0 +1,31 @@
+%transition {
+  transition: all .3s ease-out;
+}
+
+%font-prim {
+  font-family: 'Manrope', Verdana, sans-serif;
+}
+%font-prim-bold {
+  font-family: 'Manrope Bold', Verdana, sans-serif;
+}
+
+%font-add {
+  font-family: 'Open Sans', Verdana, sans-serif;
+}
+
+%font-add-bold {
+  font-family: 'Open Sans Bold', Verdana, sans-serif;
+}
+
+%custom-scroll {
+  &::-webkit-scrollbar {
+    width: 5px;
+  }
+  &::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 1px grey;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: $color-violet;
+    border-radius: 10px;
+  }
+}

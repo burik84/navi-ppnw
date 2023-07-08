@@ -1,0 +1,30 @@
+.absolute {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  // left: 100%;
+  visibility: hidden;
+  width: 40px;
+  left: 0;
+}
+
+.MuiButtonBase-root.button__up {
+  background-color: $color-primary-button;
+  color: $color-light;
+  display: none;
+  position: sticky;
+  top: 90%;
+  left: 2rem;
+  width: 20px;
+  height: 20px;
+  visibility: visible;
+  z-index: 99;
+
+  &.active {
+    display: block;
+  }
+  &:hover {
+    background-color: darken($color-primary-button, 20);
+    transform: scale(1.1);
+  }
+}

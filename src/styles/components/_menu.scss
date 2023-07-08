@@ -1,0 +1,17 @@
+.menu{
+  ul{
+    list-style-type: none;
+  }
+}
+.menu__link{
+  margin-left:1rem;
+  @extend %transition;
+  &:hover {
+    transform: scale(1.05);
+    color: $color-additional;
+  }
+  &.active {
+    color: $color-additional;
+    border-bottom: 2px solid $color-additional;
+  }
+}

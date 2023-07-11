@@ -49,11 +49,11 @@ export const Main: React.FC = () => {
         </p>
         <h3>Важно!</h3>
         <p>Внутри папки navi, в связи с тем что используются относительные ссылки на название файлов, запрещается:</p>
-        {/* <List className={classes.root}>
-          <ListItem className={classes.list}>
+        {/* <List className={classes.classes.root}>
+          <ListItem className={classes.classes.list}>
             <ListItemText
               classes={{
-                primary: classes.primary,
+                primary: classes.classes.primary,
               }}
               primary="переносить/переименовывать папки и файлы"
             />

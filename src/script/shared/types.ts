@@ -85,3 +85,11 @@ export interface AuthorsData {
   name: string;
   role: string;
 }
+
+export interface Classes {
+  classes: Record<"root" | "list" | "dividerFullWidth" | "dividerInset" | "primary" | "secondary", string>;
+  theme: any;
+  css: () => void;
+  cx: () => void;
+}
+

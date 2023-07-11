@@ -85,7 +85,7 @@ export const Search: React.FC = () => {
       <main>
         <h2 className="hidden">Поиск</h2>
         <div className="search">
-          {/* <form className={classes.root} noValidate autoComplete="off" onSubmit={handleOnSubmit}>
+          {/* <form className={classes.classes.root} noValidate autoComplete="off" onSubmit={handleOnSubmit}>
             <TextField
               autoFocus
               label="Search through site content"

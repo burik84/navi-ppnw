@@ -1,4 +1,4 @@
-# navi
+# navi-ppnw
 
 | Comment | Date |ver. |
 | ------ | ------ |------ |

@@ -34,7 +34,7 @@ export const Footer: React.FC = () => {
           Версия 0.01.01 от 01 августа 2023. <CopyrightIcon color="primary" /> 2023.{' '}
         </p>
       </div>
-      <a className="footer__link" href="https://github.com/burik84/navi/tree/navi" target="_blank" rel="noreferrer">
+      <a className="footer__link" href="https://github.com/burik84/navi-ppnw/tree/ver1" target="_blank" rel="noreferrer">
         <LogoGithub color="white" />
         Проект
       </a>

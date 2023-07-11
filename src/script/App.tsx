@@ -1,11 +1,11 @@
-import React, {useState} from 'react';
+import React, { useState } from 'react';
 
 import { Routes, Route } from 'react-router-dom';
 
 // import { AppContextProvider } from './services/AppContext';
 
 import { Footer } from './layout/Footer';
-// import { Aside } from './layout/Aside';
+import { Aside } from './layout/Aside';
 
 // import { ButtonUp } from './components/ButtonUp';
 
@@ -16,7 +16,7 @@ export function App(): JSX.Element {
   return (
     <div className="App">
       <div className="container">
-        {/* <Aside /> */}
+        <Aside />
         <Footer />
         {/* <ButtonUp /> */}
       </div>

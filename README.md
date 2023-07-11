@@ -2,9 +2,7 @@
 
 | Comment | Date |ver. |
 | ------ | ------ |------ |
-| current | 01.10.2018 | v4.18.12 |
-| update | 01.08.2021 | v5.00.01 |
-| update | 04.04.2023 | v5.01.04 |
+| update | 01.08.2023 | v0.01.00 |
 
 ## Support
 
@@ -25,8 +23,6 @@
 - SCSS
 - Eslint
 - Prettier
-
-Other folders and files use old version. I dont use it after **update**.
 
 ## Prerequisites
 

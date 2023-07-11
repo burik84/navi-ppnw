@@ -2,9 +2,6 @@ import React, { useState, useMemo, useContext } from 'react';
 import { IAppContext } from '../shared/types';
 
 const AppContext = React.createContext<IAppContext | null>(null);
-
-// export const AppContextProvider = AppContext.Provider;
-// export const AppContextConsumer = AppContext.Consumer;
 export const AppContextSource = () => {
   const context = useContext(AppContext);
   if (!context) {

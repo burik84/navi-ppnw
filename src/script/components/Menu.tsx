@@ -1,5 +1,5 @@
 import React from 'react';
-import { useMatch, NavLink } from 'react-router-dom';
+import { NavLink, useLocation } from 'react-router-dom';
 import { AppContextSource } from '../services/AppContext';
 
 const shemes = [
@@ -61,15 +61,17 @@ const info = [
   ['/info/reglament', 'Регламенты'],
 ];
 
-const getCurrentRoute = () => {
-  const { path, url } = useMatch();
+const useCurrentRoute = () => {
+  // const { path, url } = useMatch();
+  const location = useLocation();
   const names = ['sheme', 'uku', 'kip', 'asutp', 'info'];
   let result = names[0];
-  names.forEach((item) => {
-    if (url.search(item) !== -1) {
-      result = item;
-    }
-  });
+  // names.forEach((item) => {
+  //   if (url.search(item) !== -1) {
+  //     result = item;
+  //   }
+  // });
+  console.log(location);
   return result;
 };
 
@@ -127,7 +129,7 @@ const listItems = (name: string) => {
 
 export const Menu: React.FC = () => {
   const { isLoad } = AppContextSource();
-  const getNameList = getCurrentRoute();
+  const getNameList = useCurrentRoute();
   const listMenu = listItems(getNameList);
   return (
     <nav className="menu">

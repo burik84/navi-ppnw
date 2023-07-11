@@ -9,7 +9,7 @@ import AndroidIcon from '@mui/icons-material/Android';
 import { Header } from '../layout/Header';
 import { Menu } from '../components/Menu';
 import { colorAdditional } from '../shared/constants';
-import { ButtonInput } from '../components/ButtonInput';
+// import { ButtonInput } from '../components/ButtonInput';
 
 import logoWindows from '../../assets/icons/windows-brands.svg';
 
@@ -33,6 +33,8 @@ const useStyles = makeStyles()((theme: Theme) =>
 
 export const Main: React.FC = () => {
   const classes = useStyles();
+  console.log("classes");
+
   return (
     <>
       <Header />
@@ -47,7 +49,7 @@ export const Main: React.FC = () => {
         </p>
         <h3>Важно!</h3>
         <p>Внутри папки navi, в связи с тем что используются относительные ссылки на название файлов, запрещается:</p>
-        <List className={classes.root}>
+        {/* <List className={classes.root}>
           <ListItem className={classes.list}>
             <ListItemText
               classes={{
@@ -59,7 +61,7 @@ export const Main: React.FC = () => {
               <WarningIcon color="error" />
             </ListItemIcon>
           </ListItem>
-        </List>
+        </List> */}
         <h3>Как пользоваться на ...</h3>
         <h4>
           Windows
@@ -77,7 +79,7 @@ export const Main: React.FC = () => {
           <li>Нажать на ярлык или открыть файл index.html</li>
           <li>
             Открывается главная страница на которой необходимо нажать кнопку
-            <ButtonInput />
+            {/* <ButtonInput /> */}
           </li>
           <li>Выбрать файл source.json (располагается в корне папки navi). Вся информация содержится в этом файле</li>
           <li>Можно пользоваться.</li>

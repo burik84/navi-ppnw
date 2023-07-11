@@ -1,8 +1,7 @@
 import { useState, useEffect } from 'react';
 
 interface WindowDimensions {
-  // height: number;
-  height: any;
+  height: number|0;
 }
 
 const getWindowDimensions = (): WindowDimensions => {
@@ -35,8 +34,10 @@ export const useWindowDimensions = (): WindowDimensions => {
   return windowDimensions;
 };
 
-export const useHandleScroll = (): WindowDimensions => {
-  const [scrollY, getScrollY] = useState<WindowDimensions>(0);
+export const useHandleScroll = () => {
+  const [scrollY, getScrollY] = useState<WindowDimensions>();
+
+  // const [scrollY, getScrollY] = useState<WindowDimensions>();
 
   useEffect(() => {
     const handleScroll = () => {

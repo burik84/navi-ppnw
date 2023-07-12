@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { createStyles, Theme} from '@mui/material';
+import { createStyles, Theme } from '@mui/material';
 import { makeStyles } from 'tss-react/mui';
 import { List, ListItem, ListItemText, ListItemIcon } from '@mui/material';
 import WarningIcon from '@mui/icons-material/Warning';
@@ -10,7 +10,7 @@ import { Header } from '../layout/Header';
 import { Menu } from '../components/Menu';
 import { colorAdditional } from '../shared/constants';
 import { Classes } from '../shared/types';
-// import { ButtonInput } from '../components/ButtonInput';
+import { ButtonInput } from '../components/ButtonInput';
 
 import logoWindows from '../../assets/icons/windows-brands.svg';
 
@@ -34,7 +34,6 @@ const useStyles = makeStyles()((theme) => ({
 
 export const Main: React.FC = () => {
   const classes: Classes = useStyles();
-  console.log(classes);
 
   return (
     <>
@@ -80,7 +79,7 @@ export const Main: React.FC = () => {
           <li>Нажать на ярлык или открыть файл index.html</li>
           <li>
             Открывается главная страница на которой необходимо нажать кнопку
-            {/* <ButtonInput /> */}
+            <ButtonInput />
           </li>
           <li>Выбрать файл source.json (располагается в корне папки navi). Вся информация содержится в этом файле</li>
           <li>Можно пользоваться.</li>

@@ -72,6 +72,7 @@ const useCurrentRoute = () => {
   //   }
   // });
   console.log(location);
+  console.log(result);
   return result;
 };
 

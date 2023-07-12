@@ -3,7 +3,7 @@ import { ReactElement } from 'react';
 import { NavLink } from 'react-router-dom';
 
 import { AppContextSource } from '../services/AppContext';
-// import { ButtonInput } from '../components/ButtonInput';
+import { ButtonInput } from '../components/ButtonInput';
 
 const Lists: React.FC = (): ReactElement => {
   return (
@@ -48,7 +48,7 @@ export const Navigation: React.FC = (): ReactElement => {
   return (
     <nav className="navigation">
       {isLoad && <Lists />}
-      {/* {!isLoad && <ButtonInput />} */}
+      {!isLoad && <ButtonInput />}
     </nav>
   );
 };

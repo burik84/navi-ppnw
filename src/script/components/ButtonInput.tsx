@@ -9,8 +9,7 @@ import SaveIcon from '@mui/icons-material/Save';
 import { AppContextSource } from '../services/AppContext';
 import { getDataFromFile } from '../services/fetchDataJSON';
 
-const useStyles = makeStyles()((theme: Theme) =>
-  createStyles({
+const useStyles = makeStyles()((theme: Theme) =>({
     root: {
       '& > *': {
         margin: theme.spacing(1),
@@ -42,14 +41,13 @@ export const ButtonInput: React.FC = (): ReactElement => {
   };
 
   return (
-    // <div className={classes.classes.root}>
-    //   <input accept=".json" className={classes.input} id="icon-button-file" type="file" onChange={handleChange} />
-    //   <label htmlFor="icon-button-file">
-    //     <Button variant="contained" color="primary" component="span" startIcon={<SaveIcon />}>
-    //       Upload
-    //     </Button>
-    //   </label>
-    // </div>
-    <div>'Заглушка'</div>
+    <div className={classes.classes.root}>
+      <input accept=".json" className={classes.classes.input} id="icon-button-file" type="file" onChange={handleChange} />
+      <label htmlFor="icon-button-file">
+        <Button variant="contained" color="primary" component="span" startIcon={<SaveIcon />}>
+          Upload
+        </Button>
+      </label>
+    </div>
   );
 };

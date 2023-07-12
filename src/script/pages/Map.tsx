@@ -16,37 +16,16 @@ export const Map: React.FC = () => {
           <h4>Схемы</h4>
           <ul className="map__list">
             <li className="map__item">
-              <Link to="/scheme/sug">СУГ</Link>
+              <Link to="/scheme/pkb">ПКБ</Link>
             </li>
             <li className="map__item">
-              <Link to="/scheme/us">УС</Link>
+              <Link to="/scheme/elomer">Эломер</Link>
             </li>
             <li className="map__item">
-              <Link to="/scheme/uhb">УХБ</Link>
+              <Link to="/scheme/teplo">Котельная</Link>
             </li>
             <li className="map__item">
-              <Link to="/scheme/ith">ИТХ</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/scheme/ups">Причал</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/scheme/ahz">АХЗ</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/scheme/other">Вспомогательная</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/scheme/ais">АИС</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/scheme/aov">АОВ</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/scheme/rotork">Петли.Rotork</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/scheme/sgoes">Петли.СГОЭС</Link>
+              <Link to="/scheme/trial">ЭУ</Link>
             </li>
           </ul>
         </div>
@@ -69,16 +48,10 @@ export const Map: React.FC = () => {
               <Link to="/kip/level">Уровень</Link>
             </li>
             <li className="map__item">
-              <Link to="/kip/modul">Барьеры Модули AI/DI/DO</Link>
-            </li>
-            <li className="map__item">
               <Link to="/kip/ibp">ИБП</Link>
             </li>
             <li className="map__item">
               <Link to="/kip/drive">Привода, клапаны</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/kip/enraf">Enraf</Link>
             </li>
             <li className="map__item">
               <Link to="/kip/equip">Диагностика</Link>
@@ -89,60 +62,16 @@ export const Map: React.FC = () => {
           </ul>
         </div>
         <div className="lists">
-          <h4>УКУ</h4>
-          <ul className="map__list">
-            <li className="map__item">
-              <Link to="/uku/44_1">44.1</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/uku/44_2">44.2</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/uku/44_3">44.3</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/uku/700_3">700.3</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/uku/ppu">ППУ</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/uku/instruction">Инструкции и методики поверки</Link>
-            </li>
-          </ul>
-        </div>
-        <div className="lists">
           <h4>АСУТП</h4>
           <ul className="map__list">
             <li className="map__item">
               <Link to="/asutp/re">Инструкции</Link>
             </li>
             <li className="map__item">
-              <Link to="/asutp/centum">Centum VP</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/asutp/prosafe">Prosafe RS</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/asutp/server">Servers</Link>
-            </li>
-            <li className="map__item">
               <Link to="/asutp/siemens">Siemens</Link>
             </li>
             <li className="map__item">
-              <Link to="/asutp/stardom">Stardom</Link>
-            </li>
-            <li className="map__item">
               <Link to="/asutp/hart">Hart Modbus RS</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/asutp/scada">Scada</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/asutp/enraf">Enraf</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/asutp/smis">СМИС</Link>
             </li>
           </ul>
         </div>
@@ -153,16 +82,13 @@ export const Map: React.FC = () => {
               <Link to="/info/otpb">ОТиПБ</Link>
             </li>
             <li className="map__item">
-              <Link to="/info/equip">Технологическое оборудование. Инструкции</Link>
+              <Link to="/info/equip">Технологическое инструкции</Link>
             </li>
             <li className="map__item">
-              <Link to="/info/methodologies">Методики поверки</Link>
+              <Link to="/info/map">Технологические схемы</Link>
             </li>
             <li className="map__item">
-              <Link to="/info/map">Схемы технологические. Карта площадки.</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/info/artic">Статьи</Link>
+              <Link to="/info/artical">Статьи</Link>
             </li>
             <li className="map__item">
               <Link to="/info/reglament">Регламенты</Link>

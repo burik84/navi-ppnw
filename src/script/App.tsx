@@ -8,8 +8,8 @@ import { Footer } from './layout/Footer';
 import { Aside } from './layout/Aside';
 
 import { Main } from './pages/Main';
-// import { About } from './pages/About';
-// import { Map } from './pages/Map';
+import { About } from './pages/About';
+import { Map } from './pages/Map';
 // import { Asutp } from './pages/Asutp';
 // import { Info } from './pages/Info';
 // import { Scheme } from './pages/Scheme';
@@ -27,20 +27,20 @@ export function App(): JSX.Element {
       <div className="container">
       <AppContextProvider>
           <Routes>
-            {/* <Route path="/about" component={About} />
-            <Route path="/map" component={Map} />
-            <Route path="/scheme/:section" component={Scheme} />
-            <Route path="/scheme/" component={Scheme} />
-            <Route path="/uku/:section" component={Uku} />
-            <Route path="/uku" component={Uku} />
-            <Route path="/kip/:section" component={Kip} />
-            <Route path="/kip" component={Kip} />
-            <Route path="/asutp/:section" component={Asutp} />
-            <Route path="/asutp" component={Asutp} />
-            <Route path="/info/:section" component={Info} />
-            <Route path="/info" component={Info} />
-            <Route path="/search" component={Search} />
-            <Route path="/main" component={Main} /> */}
+            <Route path="/about" element={<About/>} />
+            <Route path="/map" element={<Map/>} />
+            {/* <Route path="/scheme/:section" component={Scheme} /> */}
+            {/* <Route path="/scheme/" component={Scheme} /> */}
+            {/* <Route path="/uku/:section" component={Uku} /> */}
+            {/* <Route path="/uku" component={Uku} /> */}
+            {/* <Route path="/kip/:section" component={Kip} /> */}
+            {/* <Route path="/kip" component={Kip} /> */}
+            {/* <Route path="/asutp/:section" component={Asutp} /> */}
+            {/* <Route path="/asutp" component={Asutp} /> */}
+            {/* <Route path="/info/:section" component={Info} /> */}
+            {/* <Route path="/info" component={Info} /> */}
+            {/* <Route path="/search" component={Search} /> */}
+            <Route path="/main" element={<Main/>}/>
             <Route path="/" element={<Main/>} />
             <Route path="*">Sorry, This page not found</Route>
           </Routes>

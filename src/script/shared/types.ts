@@ -87,7 +87,15 @@ export interface AuthorsData {
 }
 
 export interface Classes {
-  classes: Record<"root" | "list" | "dividerFullWidth" | "dividerInset" | "primary" | "secondary", string>;
+  // classes: Record<"root" | "list" | "dividerFullWidth" | "dividerInset" | "primary" | "secondary", string>;
+  classes:{
+    root:string;
+    list:string;
+    primary:string;
+    dividerFullWidth?:string;
+    secondary?:string;
+    dividerInset?:string;
+  }
   theme: any;
   css: () => void;
   cx: () => void;

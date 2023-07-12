@@ -9,31 +9,32 @@ import AndroidIcon from '@mui/icons-material/Android';
 import { Header } from '../layout/Header';
 import { Menu } from '../components/Menu';
 import { colorAdditional } from '../shared/constants';
+import { Classes } from '../shared/types';
 // import { ButtonInput } from '../components/ButtonInput';
 
 import logoWindows from '../../assets/icons/windows-brands.svg';
 
-const useStyles = makeStyles()((theme: Theme) =>
-  createStyles({
-    root: {
-      width: '100%',
-      maxWidth: 520,
-    },
-    list: {
-      paddingTop: '0px',
-      paddingBottom: '0px',
-    },
-    primary: {
-      color: colorAdditional,
-      marginBottom: '.5rem',
-      fontSize: '1.8rem',
-    },
-  }),
+const useStyles = makeStyles()((theme) => ({
+  root: {
+    width: '100%',
+    maxWidth: 520,
+  },
+  list: {
+    paddingTop: '0px',
+    paddingBottom: '0px',
+  },
+  primary: {
+    color: colorAdditional,
+    marginBottom: '.5rem',
+    fontSize: '1.8rem',
+  }
+})
+
 );
 
 export const Main: React.FC = () => {
-  const classes = useStyles();
-  console.log("classes");
+  const classes: Classes = useStyles();
+  console.log(classes);
 
   return (
     <>
@@ -49,7 +50,7 @@ export const Main: React.FC = () => {
         </p>
         <h3>Важно!</h3>
         <p>Внутри папки navi, в связи с тем что используются относительные ссылки на название файлов, запрещается:</p>
-        {/* <List className={classes.classes.root}>
+        <List className={classes.classes.root}>
           <ListItem className={classes.classes.list}>
             <ListItemText
               classes={{
@@ -61,7 +62,7 @@ export const Main: React.FC = () => {
               <WarningIcon color="error" />
             </ListItemIcon>
           </ListItem>
-        </List> */}
+        </List>
         <h3>Как пользоваться на ...</h3>
         <h4>
           Windows

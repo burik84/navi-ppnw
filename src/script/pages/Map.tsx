@@ -25,7 +25,10 @@ export const Map: React.FC = () => {
               <Link to="/scheme/teplo">Котельная</Link>
             </li>
             <li className="map__item">
-              <Link to="/scheme/trial">ЭУ</Link>
+              <Link to="/scheme/experiment">ЭУ</Link>
+            </li>
+            <li className="map__item">
+              <Link to="/scheme/other">Остальное</Link>
             </li>
           </ul>
         </div>
@@ -46,6 +49,9 @@ export const Map: React.FC = () => {
             </li>
             <li className="map__item">
               <Link to="/kip/level">Уровень</Link>
+            </li>
+            <li className="map__item">
+              <Link to="/kip/modul">Модули, барьеры</Link>
             </li>
             <li className="map__item">
               <Link to="/kip/ibp">ИБП</Link>
@@ -71,6 +77,9 @@ export const Map: React.FC = () => {
               <Link to="/asutp/siemens">Siemens</Link>
             </li>
             <li className="map__item">
+              <Link to="/asutp/server">Сервера</Link>
+            </li>
+            <li className="map__item">
               <Link to="/asutp/hart">Hart Modbus RS</Link>
             </li>
           </ul>
@@ -82,6 +91,9 @@ export const Map: React.FC = () => {
               <Link to="/info/otpb">ОТиПБ</Link>
             </li>
             <li className="map__item">
+              <Link to="/info/reglament">Регламенты</Link>
+            </li>
+            <li className="map__item">
               <Link to="/info/equip">Технологическое инструкции</Link>
             </li>
             <li className="map__item">
@@ -89,9 +101,6 @@ export const Map: React.FC = () => {
             </li>
             <li className="map__item">
               <Link to="/info/artical">Статьи</Link>
-            </li>
-            <li className="map__item">
-              <Link to="/info/reglament">Регламенты</Link>
             </li>
           </ul>
         </div>

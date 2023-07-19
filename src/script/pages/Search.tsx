@@ -11,7 +11,7 @@ import { Header } from '../layout/Header';
 import { Lists } from '../components/Lists';
 
 const useStyles = makeStyles()((theme: Theme) =>
-  createStyles({
+  ({
     root: {
       display: 'flex',
       flexWrap: 'wrap',
@@ -85,7 +85,7 @@ export const Search: React.FC = () => {
       <main>
         <h2 className="hidden">Поиск</h2>
         <div className="search">
-          {/* <form className={classes.classes.root} noValidate autoComplete="off" onSubmit={handleOnSubmit}>
+          <form className={classes.classes.root} noValidate autoComplete="off" onSubmit={handleOnSubmit}>
             <TextField
               autoFocus
               label="Search through site content"
@@ -99,13 +99,13 @@ export const Search: React.FC = () => {
             <Button
               variant="outlined"
               color="primary"
-              className={classes.margin}
+              className={classes.classes.margin}
               type="submit"
               startIcon={<SearchIcon />}
             >
               Search
             </Button>
-          </form> */}
+          </form>
         </div>
         <div className="results">
           <h4>

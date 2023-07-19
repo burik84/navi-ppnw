@@ -10,20 +10,9 @@ import { Lists } from '../components/Lists';
 
 import { getTitlePage } from '../shared/getTitlePage';
 import { IData } from '../shared/types';
+import { asutpMenu } from '../shared/constants';
 
-const info: { [char: string]: string } = {
-  re: 'instruction',
-  centum: 'centumvp',
-  prosafe: 'prosafe',
-  server: 'server',
-  siemens: 'siemens',
-  stardom: 'stardom',
-  hart: 'hart',
-  scada: 'scada',
-  enraf: 'enraf',
-  smis: 'smis',
-  basis: 'basis',
-};
+const info: { [char: string]: string } = asutpMenu;
 
 export const Asutp: React.FC = () => {
   const [listDataSection, setListDataSection] = useState<IData[] | []>([]);

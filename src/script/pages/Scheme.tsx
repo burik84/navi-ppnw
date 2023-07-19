@@ -10,27 +10,17 @@ import { Lists } from '../components/Lists';
 
 import { getTitlePage } from '../shared/getTitlePage';
 import { IData } from '../shared/types';
+import { schemeMenu } from '../shared/constants';
 
-const info: { [char: string]: string } = {
-  sug: 'sug',
-  us: 'us',
-  uhb: 'uhb',
-  ith: 'ith',
-  ups: 'ups',
-  ahz: 'ahz',
-  other: 'other',
-  ais: 'ais',
-  aov: 'aov',
-  rotork: 'rotork',
-  sgoes: 'sgoes',
-};
+const info: { [char: string]: string } = schemeMenu;
+
 
 export const Scheme: React.FC = () => {
   const [listDataSection, setListDataSection] = useState<IData[] | []>([]);
   const [listDataTitle, setListDataTitle] = useState<string[] | []>([]);
   const key = useParams();
 
-  const section: string = key.section || 'sug';
+  const section: string = key.section || 'pkb';
   const title = getTitlePage(section, 'scheme');
   const { source = [] } = AppContextSource();
 

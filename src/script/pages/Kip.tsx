@@ -10,20 +10,9 @@ import { Lists } from '../components/Lists';
 
 import { getTitlePage } from '../shared/getTitlePage';
 import { IData } from '../shared/types';
+import { kipMenu } from '../shared/constants';
 
-const info: { [char: string]: string } = {
-  analyzer: 'analyzer',
-  pressure: 'pressure',
-  rashod: 'rashod',
-  temp: 'temp',
-  level: 'level',
-  modul: 'mod',
-  ibp: 'ups',
-  drive: 'drive',
-  enraf: 'enraf',
-  equip: 'equip',
-  other: 'other',
-};
+const info: { [char: string]: string } = kipMenu
 
 export const Kip: React.FC = () => {
   const [listDataSection, setListDataSection] = useState<IData[] | []>([]);

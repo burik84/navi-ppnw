@@ -10,15 +10,9 @@ import { Lists } from '../components/Lists';
 
 import { getTitlePage } from '../shared/getTitlePage';
 import { IData } from '../shared/types';
+import { otherMenu } from '../shared/constants';
 
-const info: { [char: string]: string } = {
-  otpb: 'instruction',
-  equip: 'equipment',
-  methodologies: 'methodologies',
-  map: 'map',
-  artic: 'artic',
-  reglament: 'reglament',
-};
+const info: { [char: string]: string } = otherMenu
 
 export const Info: React.FC = () => {
   const [listDataSection, setListDataSection] = useState<IData[] | []>([]);

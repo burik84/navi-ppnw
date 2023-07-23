@@ -54,7 +54,7 @@ export const Map: React.FC = () => {
               <Link to="/kip/modul">Модули, барьеры</Link>
             </li>
             <li className="map__item">
-              <Link to="/kip/ibp">ИБП</Link>
+              <Link to="/kip/power">ИБП</Link>
             </li>
             <li className="map__item">
               <Link to="/kip/drive">Привода, клапаны</Link>
@@ -81,6 +81,9 @@ export const Map: React.FC = () => {
             </li>
             <li className="map__item">
               <Link to="/asutp/hart">Hart Modbus RS</Link>
+            </li>
+            <li className="map__item">
+              <Link to="/asutp/comm">communication</Link>
             </li>
           </ul>
         </div>

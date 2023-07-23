@@ -15,7 +15,7 @@ export const kipMenu: { [char: string]: string } = {
   temp: 'temp',
   level: 'level',
   modul: 'mod',
-  ibp: 'ups',
+  power: 'power',
   drive: 'drive',
   equip: 'equip',
   other: 'other',
@@ -25,7 +25,7 @@ export const otherMenu: { [char: string]: string } = {
   otpb: 'instruction',
   equip: 'equipment',
   map: 'map',
-  artic: 'artic',
+  artical: 'artical',
   reglament: 'reglament',
 };
 export const asutpMenu: { [char: string]: string } = {
@@ -33,10 +33,9 @@ export const asutpMenu: { [char: string]: string } = {
   siemens: 'siemens',
   server: 'server',
   hart: 'hart',
+  comm: 'communication',
 };
 const nameSchemes = {
-  sug: 'Участок хранения СУГ под давлением',
-  us: 'Участок слива',
   pkb: 'Цех поликарбоксилата',
   elomer: 'Цех Эломер',
   experiment: 'Экспериментальные установки ПКБ и ЭЛОМЕР',
@@ -50,8 +49,8 @@ const nameKip = {
   rashod: 'Измерение расхода.',
   temp: 'Измерение температуры.',
   level: 'Измерение уровня.',
-  modul: 'Барьеры, модули, AI/AO/DI/DO',
-  ibp: 'Источники бесперебойного питания.',
+  modul: 'Барьеры, реле, модули AI/AO/DI/DO',
+  power: 'Источники бесперебойного питания, блоки питания',
   drive: 'Привода, клапаны',
   equip: 'Здесь представлена информация по оборудованию для диагностики КИП и другое',
   other: 'Инструкции по оборудованию, которые не входят в основные разделы',
@@ -61,13 +60,14 @@ const nameAsutp = {
   siemens: 'Siemens. Все о контроллере + Win CC. Руководство пользователя',
   server: 'Servers',
   hart: 'Информация о протоколах связи и интерфейсе',
+  comm: 'Коммуникационное оборудование',
 };
 const nameInfo = {
   otpb: 'Инструкции по охране труда, промышленной безопасноти и т.д.',
   reglament: 'Регламенты и блокировки',
   equip: 'Технологическое оборудование, инструкции',
   map: 'Схемы технологические, карта площадки',
-  artic: 'Статьи. Раздел в постоянной стадии наполнения',
+  artical: 'Статьи. Раздел в постоянной стадии наполнения',
 };
 
 export const nameMenu = {

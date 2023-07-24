@@ -12,7 +12,7 @@ export interface IData {
   file: string;
   title: string;
   description: string;
-  titul: string[];
+  zona: string[];
   isShow: boolean;
 }
 export interface IAppContext {

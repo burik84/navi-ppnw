@@ -38,7 +38,7 @@ const getDataSearch = (text: string, data: []) => {
       result.push(item);
     } else if (item.description.toLowerCase().includes(text)) {
       result.push(item);
-    } else if (item.titul.includes(text)) {
+    } else if (item.zona.includes(text)) {
       result.push(item);
     }
   });

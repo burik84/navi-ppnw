@@ -1,0 +1,132 @@
+[
+  {
+    "name": "наименование раздела",
+    "folder": "наименование папки",
+    "urlBase": "путь до папки в котором содержатся файл",
+    "file": "наименование файла",
+    "title": "Раздел в котором будет располагаться",
+    "description": "название ссылки на файл",
+    "zona": "титула, к которому применяется",
+    "isShow": "показывать или нет"
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/analyzer/",
+    "file": "DRAGER_regard-3900-serie-pi-9103967-ru-ru.pdf",
+    "title": "Системы управления",
+    "description": "Drager REGARD3900/3910. Система управления",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/analyzer/",
+    "file": "gank-4-re.pdf",
+    "title": "Анализаторы",
+    "description": "ГАНК-4 Газоанализатор универсальный.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/analyzer/",
+    "file": "wd6200-fixed-gas-detector_(henan-hanwei-electronics).pdf",
+    "title": "Сигнализаторы",
+    "description": "WD6200 Fixed gas detector",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/analyzer/",
+    "file": "АКПМ-01.pdf",
+    "title": "Анализаторы",
+    "description": "АКПМ-01 Анализатор кислорода промышленный многофукнциональный",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/analyzer/",
+    "file": "Газоанализатор_флюорит_ЦМ.pdf",
+    "title": "Системы управления",
+    "description": "Флюорит ЦМ. Газоанализатор",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/temp/",
+    "file": "Взлет_re_tps_doc4_1.pdf",
+    "title": "Преобразователи",
+    "description": "ВЗЛЕТ ТПС. Термопреобразователи сопротивления",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/temp/",
+    "file": "ОВЕН_ДТП-И.EXD.pdf",
+    "title": "Преобразователи",
+    "description": "ОВЕН ДТП-И.EXD и ДТС-И.EXD. Термопреобразователи с унифицированным выходным сигналом 4-20мА",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/rashod/",
+    "file": "Promass_83F_BA063D06ru1206.pdf",
+    "title": "Расходомеры",
+    "description": "Proline Promass 83. Измерительная система кориолисового массового расходомера",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/rashod/",
+    "file": "Логика_СПГ742_v0909.pdf",
+    "title": "Корректоры",
+    "description": "Логика СПГ742.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/rashod/",
+    "file": "ЭМИС_em270_manual_rus.pdf",
+    "title": "Расходомеры",
+    "description": "Эмис МАГ 270. Расходомеры электромагнитные.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/pressure/",
+    "file": "АИР-20_М2-И-ДИВ.pdf",
+    "title": "Преобразователи",
+    "description": "АИР-20/М2-Н. Датчики давления",
+    "zona": ["Элемер"],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equipment",
+    "urlBase": "../public/kip/rashod/",
+    "file": "Логика_Интерфейс_связи_СПГ742 v00.pdf",
+    "title": "Корректоры",
+    "description": "Логика СПГ742. Интерфейс связи",
+    "zona": ["Котельное хозяйство"],
+    "isShow": false
+  }
+]

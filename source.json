@@ -24,7 +24,7 @@
     "folder": "equipment",
     "urlBase": "../public/kip/analyzer/",
     "file": "gank-4-re.pdf",
-    "title": "Анализаторы",
+    "title": "Газонализаторы",
     "description": "ГАНК-4 Газоанализатор универсальный.",
     "zona": [""],
     "isShow": true
@@ -54,7 +54,7 @@
     "folder": "equipment",
     "urlBase": "../public/kip/analyzer/",
     "file": "Газоанализатор_флюорит_ЦМ.pdf",
-    "title": "Системы управления",
+    "title": "Газоанализаторы",
     "description": "Флюорит ЦМ. Газоанализатор",
     "zona": [""],
     "isShow": true
@@ -127,6 +127,286 @@
     "title": "Корректоры",
     "description": "Логика СПГ742. Интерфейс связи",
     "zona": ["Котельное хозяйство"],
-    "isShow": false
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "Castle_manual-c6-10k(s)-3c10ks.pdf",
+    "title": "Источники бесперебойного питания",
+    "description": "SSANTAK серии CASTLE 6K/10K",
+    "zona": ["Эломер"],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "CyberPower_K01-0000453-01_UM_PR1000-1500ELCD_ru.pdf",
+    "title": "Источники бесперебойного питания",
+    "description": "CyberPower PR1000/1500ELCD_ru",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "EKF DR-75W-24 Passport.pdf",
+    "title": "Блоки питания",
+    "description": "EKF DR-75W 24В",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "leoch_djw12-7.2.pdf",
+    "title": "Аккамуляторы для источников бесперебойного питания",
+    "description": "Leoch djw12-7.2",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "Mean_Well_10A NDR-480-48.pdf",
+    "title": "Блоки питания",
+    "description": "MeanWell 10A NDR-480-48",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "Mean_Well_10A SDR-240-24.pdf",
+    "title": "Блоки питания",
+    "description": "Mean Well 10A SDR-240-24",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "Mean_Well_WDR-120-24.pdf",
+    "title": "Блоки питания",
+    "description": "Mean Well WDR-120-24",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "Mean_Well_NDR-240-24.pdf",
+    "title": "Блоки питания",
+    "description": "Mean Well NDR-240-24",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "POWERCOM MRT-2000SE.pdf",
+    "title": "Источники бесперебойного питания",
+    "description": "POWERCOM MRT-2000SE",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "powercom pcm2377.pdf",
+    "title": "ккамуляторы для источников бесперебойного питания",
+    "description": "POWERCOM pcm2377",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "ВЗЛЕТ_re_ivp_doc4_2.pdf",
+    "title": "Блоки питания",
+    "description": "ВЗЛЕТ ИВП",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "ОВЕН re_bp14b-d4_2269.pdf",
+    "title": "Блоки питания",
+    "description": "ОВЕН БП14Б-Д4",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../public/kip/power/",
+    "file": "Овен_БП60Б-Д4.pdf",
+    "title": "Блоки питания",
+    "description": "Овен БП60Б-Д4",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "AM1000-Series-Isolated-Barrier.pdf",
+    "title": "Барьеры",
+    "description": "AM1000 Series Isolated Barrier",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "CHINT_РЕЛЕ.pdf",
+    "title": "Реле",
+    "description": "CHINT РЕЛЕ",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "NPEXA-C5D111.pdf",
+    "title": "Барьеры",
+    "description": "NPEXA C5D111",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "NPEXA-CM3D11.pdf",
+    "title": "Барьеры",
+    "description": "NPEXA CM3D11Е",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "rukovodstvo-po-ekspluatacii-lpa-4xx.pdf",
+    "title": "Барьеры",
+    "description": "ЛПА-400 барьеры искробезопасности",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "МГРТП-002.pdf",
+    "title": "Барьеры",
+    "description": "МГРТП-002 Блок гальванического разделения токовой петли",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "Реле_ABB.pdf",
+    "title": "Реле",
+    "description": "Реле ABB",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "ОВЕН re_npt-1k.00.1.3_2815_a4.pdf",
+    "title": "Преобразователи",
+    "description": "ОВЕН НПТ-1 Преобразователь аналоговых сигналов измерительный",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "ОВЕН re_npt-1k.00.1.3_2815_a4.pdf",
+    "title": "Барьеры",
+    "description": "ОВЕН ИСКРА Барьеры искрозащиты",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "Овен_MB110-224.4ТД.pdf",
+    "title": "Преобразователи",
+    "description": "ОВЕН МВ110-224.1ТД и МВ110-224.ТД Модуль ввод сигналов тензодатчиков",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "ОВЕН_re_iskra-skh.03_1-ru-71554-1.17_a4.pdf",
+    "title": "Барьеры",
+    "description": "ОВЕН ИСКРА-СКх Барьеры искрозащиты",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "ОВЕН_re_mk110-h.8d_dn_.4r_m01__1-ru-32746-1.8.pdf",
+    "title": "Преобразователи",
+    "description": "ОВЕН МК110-224.8Д Модуль дискретного ввода/вывода",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "ОВЕН_re_mv110-1td_mv110-4td_1-ru-32150-1.17.pdf",
+    "title": "Преобразователи",
+    "description": "ОВЕН МВ110-1ТД, МВ110-4ТД Модуль аналогового ввода",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "ОВЕН_re_mv210-101_1-ru-23540-1.41.pdf",
+    "title": "Преобразователи",
+    "description": "ОВЕН МВ210-101 Модуль аналогового ввода",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../public/kip/modul/",
+    "file": "ОВЕН_re_mv210-212-214_1-ru-53119-2.7_a4.pdf",
+    "title": "Преобразователи",
+    "description": "ОВЕН МВ210-212/214 Модуль дискретного ввода",
+    "zona": [""],
+    "isShow": true
   }
 ]

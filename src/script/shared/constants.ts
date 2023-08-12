@@ -5,11 +5,10 @@ export const schemeMenu: { [char: string]: string } = {
   pkb: 'pkb',
   elomer: 'elomer',
   experiment: 'experiment',
-  teplo: 'kotel',
   other: 'other',
 };
 export const kipMenu: { [char: string]: string } = {
-  analyzer: 'analyzer',
+  analyze: 'analyze',
   pressure: 'pressure',
   rashod: 'rashod',
   temp: 'temp',
@@ -39,12 +38,11 @@ const nameSchemes = {
   pkb: 'Цех поликарбоксилата',
   elomer: 'Цех Эломер',
   experiment: 'Экспериментальные установки ПКБ и ЭЛОМЕР',
-  teplo: 'Котельное хозяйство',
   other: 'Другое',
 };
 
 const nameKip = {
-  analyzer: 'Анализаторы, газовый анализ',
+  analyze: 'Анализаторы, газовый анализ',
   pressure: 'Измерение давления.',
   rashod: 'Измерение расхода.',
   temp: 'Измерение температуры.',

@@ -22,9 +22,6 @@ export const Map: React.FC = () => {
               <Link to="/scheme/elomer">Эломер</Link>
             </li>
             <li className="map__item">
-              <Link to="/scheme/teplo">Котельная</Link>
-            </li>
-            <li className="map__item">
               <Link to="/scheme/experiment">ЭУ</Link>
             </li>
             <li className="map__item">
@@ -36,7 +33,7 @@ export const Map: React.FC = () => {
           <h4>КИП</h4>
           <ul className="map__list">
             <li className="map__item">
-              <Link to="/kip/analyzer">Анализаторы</Link>
+              <Link to="/kip/analyze">Анализаторы</Link>
             </li>
             <li className="map__item">
               <Link to="/kip/pressure">Давление</Link>

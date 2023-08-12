@@ -21,7 +21,7 @@
   z-index: 99;
 
   &.active {
-    display: block;
+    display: flex;
   }
   &:hover {
     background-color: darken($color-primary-button, 20);

@@ -4,7 +4,7 @@ import { createStyles, Theme } from '@mui/material';
 import { makeStyles } from 'tss-react/mui';
 import { List, ListItem, ListItemText, ListItemIcon } from '@mui/material';
 import WarningIcon from '@mui/icons-material/Warning';
-import AndroidIcon from '@mui/icons-material/Android';
+// import AndroidIcon from '@mui/icons-material/Android';
 
 import { Header } from '../layout/Header';
 import { Menu } from '../components/Menu';
@@ -84,10 +84,10 @@ export const Main: React.FC = () => {
           <li>Выбрать файл source.json (располагается в корне папки navi). Вся информация содержится в этом файле</li>
           <li>Можно пользоваться.</li>
         </ol>
-        <h4>
+        {/* <h4>
           Android <AndroidIcon color="primary" />
         </h4>
-        <p>В стадии разработки</p>
+        <p>В стадии разработки</p> */}
       </main>
     </>
   );

@@ -3,7 +3,7 @@ import { AppContextSource } from '../services/AppContext';
 
 import { IData } from '../shared/types';
 
-import { TextField, createStyles, Theme, Button } from '@mui/material';
+import { TextField, Theme, Button } from '@mui/material';
 import { makeStyles } from 'tss-react/mui';
 import SearchIcon from '@mui/icons-material/Search';
 

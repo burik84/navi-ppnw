@@ -12,7 +12,7 @@
   {
     "name": "kip",
     "folder": "analyze",
-    "urlBase": "../public/kip/analyze/",
+    "urlBase": "../library/kip/analyze/",
     "file": "DRAGER_regard-3900-serie-pi-9103967-ru-ru.pdf",
     "title": "Системы управления",
     "description": "Drager REGARD3900/3910. Система управления",
@@ -22,7 +22,7 @@
   {
     "name": "kip",
     "folder": "analyze",
-    "urlBase": "../public/kip/analyze/",
+    "urlBase": "../library/kip/analyze/",
     "file": "gank-4-re.pdf",
     "title": "Газонализаторы",
     "description": "ГАНК-4 Газоанализатор универсальный.",
@@ -32,7 +32,7 @@
   {
     "name": "kip",
     "folder": "analyze",
-    "urlBase": "../public/kip/analyze/",
+    "urlBase": "../library/kip/analyze/",
     "file": "wd6200-fixed-gas-detector_(henan-hanwei-electronics).pdf",
     "title": "Сигнализаторы",
     "description": "WD6200 Fixed gas detector",
@@ -42,7 +42,7 @@
   {
     "name": "kip",
     "folder": "analyze",
-    "urlBase": "../public/kip/analyze/",
+    "urlBase": "../library/kip/analyze/",
     "file": "АКПМ-01.pdf",
     "title": "Анализаторы",
     "description": "АКПМ-01 Анализатор кислорода промышленный многофукнциональный",
@@ -52,7 +52,7 @@
   {
     "name": "kip",
     "folder": "analyze",
-    "urlBase": "../public/kip/analyze/",
+    "urlBase": "../library/kip/analyze/",
     "file": "Газоанализатор_флюорит_ЦМ.pdf",
     "title": "Газоанализаторы",
     "description": "Флюорит ЦМ. Газоанализатор",
@@ -62,7 +62,7 @@
   {
     "name": "kip",
     "folder": "temp",
-    "urlBase": "../public/kip/temp/",
+    "urlBase": "../library/kip/temp/",
     "file": "Взлет_re_tps_doc4_1.pdf",
     "title": "Преобразователи",
     "description": "ВЗЛЕТ ТПС. Термопреобразователи сопротивления",
@@ -72,7 +72,7 @@
   {
     "name": "kip",
     "folder": "temp",
-    "urlBase": "../public/kip/temp/",
+    "urlBase": "../library/kip/temp/",
     "file": "ОВЕН_ДТП-И.EXD.pdf",
     "title": "Преобразователи",
     "description": "ОВЕН ДТП-И.EXD и ДТС-И.EXD. Термопреобразователи с унифицированным выходным сигналом 4-20мА",
@@ -82,7 +82,7 @@
   {
     "name": "kip",
     "folder": "equipment",
-    "urlBase": "../public/kip/rashod/",
+    "urlBase": "../library/kip/rashod/",
     "file": "Promass_83F_BA063D06ru1206.pdf",
     "title": "Расходомеры",
     "description": "Proline Promass 83. Измерительная система кориолисового массового расходомера",
@@ -92,7 +92,7 @@
   {
     "name": "kip",
     "folder": "equipment",
-    "urlBase": "../public/kip/rashod/",
+    "urlBase": "../library/kip/rashod/",
     "file": "Логика_СПГ742_v0909.pdf",
     "title": "Корректоры",
     "description": "Логика СПГ742.",
@@ -102,7 +102,7 @@
   {
     "name": "kip",
     "folder": "rashod",
-    "urlBase": "../public/kip/rashod/",
+    "urlBase": "../library/kip/rashod/",
     "file": "ЭМИС_em270_manual_rus.pdf",
     "title": "Расходомеры",
     "description": "Эмис МАГ 270. Расходомеры электромагнитные.",
@@ -112,7 +112,7 @@
   {
     "name": "kip",
     "folder": "pressure",
-    "urlBase": "../public/kip/pressure/",
+    "urlBase": "../library/kip/pressure/",
     "file": "АИР-20_М2-И-ДИВ.pdf",
     "title": "Преобразователи",
     "description": "АИР-20/М2-Н. Датчики давления",
@@ -122,7 +122,7 @@
   {
     "name": "kip",
     "folder": "rashod",
-    "urlBase": "../public/kip/rashod/",
+    "urlBase": "../library/kip/rashod/",
     "file": "Логика_Интерфейс_связи_СПГ742 v00.pdf",
     "title": "Корректоры",
     "description": "Логика СПГ742. Интерфейс связи",
@@ -132,7 +132,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "Castle_manual-c6-10k(s)-3c10ks.pdf",
     "title": "Источники бесперебойного питания",
     "description": "SSANTAK серии CASTLE 6K/10K",
@@ -142,7 +142,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "CyberPower_K01-0000453-01_UM_PR1000-1500ELCD_ru.pdf",
     "title": "Источники бесперебойного питания",
     "description": "CyberPower PR1000/1500ELCD_ru",
@@ -152,7 +152,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "EKF DR-75W-24 Passport.pdf",
     "title": "Блоки питания",
     "description": "EKF DR-75W 24В",
@@ -162,7 +162,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "leoch_djw12-7.2.pdf",
     "title": "Аккамуляторы для источников бесперебойного питания",
     "description": "Leoch djw12-7.2",
@@ -172,7 +172,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "Mean_Well_10A NDR-480-48.pdf",
     "title": "Блоки питания",
     "description": "MeanWell 10A NDR-480-48",
@@ -182,7 +182,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "Mean_Well_10A SDR-240-24.pdf",
     "title": "Блоки питания",
     "description": "Mean Well 10A SDR-240-24",
@@ -192,7 +192,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "Mean_Well_WDR-120-24.pdf",
     "title": "Блоки питания",
     "description": "Mean Well WDR-120-24",
@@ -202,7 +202,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "Mean_Well_NDR-240-24.pdf",
     "title": "Блоки питания",
     "description": "Mean Well NDR-240-24",
@@ -212,7 +212,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "POWERCOM MRT-2000SE.pdf",
     "title": "Источники бесперебойного питания",
     "description": "POWERCOM MRT-2000SE",
@@ -222,7 +222,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "powercom pcm2377.pdf",
     "title": "ккамуляторы для источников бесперебойного питания",
     "description": "POWERCOM pcm2377",
@@ -232,7 +232,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "ВЗЛЕТ_re_ivp_doc4_2.pdf",
     "title": "Блоки питания",
     "description": "ВЗЛЕТ ИВП",
@@ -242,7 +242,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "ОВЕН re_bp14b-d4_2269.pdf",
     "title": "Блоки питания",
     "description": "ОВЕН БП14Б-Д4",
@@ -252,7 +252,7 @@
   {
     "name": "kip",
     "folder": "power",
-    "urlBase": "../public/kip/power/",
+    "urlBase": "../library/kip/power/",
     "file": "Овен_БП60Б-Д4.pdf",
     "title": "Блоки питания",
     "description": "Овен БП60Б-Д4",
@@ -262,7 +262,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "AM1000-Series-Isolated-Barrier.pdf",
     "title": "Барьеры",
     "description": "AM1000 Series Isolated Barrier",
@@ -272,7 +272,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "CHINT_РЕЛЕ.pdf",
     "title": "Реле",
     "description": "CHINT РЕЛЕ",
@@ -282,7 +282,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "NPEXA-C5D111.pdf",
     "title": "Барьеры",
     "description": "NPEXA C5D111",
@@ -292,7 +292,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "NPEXA-CM3D11.pdf",
     "title": "Барьеры",
     "description": "NPEXA CM3D11Е",
@@ -302,7 +302,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "rukovodstvo-po-ekspluatacii-lpa-4xx.pdf",
     "title": "Барьеры",
     "description": "ЛПА-400 барьеры искробезопасности",
@@ -312,7 +312,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "МГРТП-002.pdf",
     "title": "Барьеры",
     "description": "МГРТП-002 Блок гальванического разделения токовой петли",
@@ -322,7 +322,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "Реле_ABB.pdf",
     "title": "Реле",
     "description": "Реле ABB",
@@ -332,7 +332,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "ОВЕН re_npt-1k.00.1.3_2815_a4.pdf",
     "title": "Преобразователи",
     "description": "ОВЕН НПТ-1 Преобразователь аналоговых сигналов измерительный",
@@ -342,7 +342,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "ОВЕН re_npt-1k.00.1.3_2815_a4.pdf",
     "title": "Барьеры",
     "description": "ОВЕН ИСКРА Барьеры искрозащиты",
@@ -352,7 +352,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "Овен_MB110-224.4ТД.pdf",
     "title": "Преобразователи",
     "description": "ОВЕН МВ110-224.1ТД и МВ110-224.ТД Модуль ввод сигналов тензодатчиков",
@@ -362,7 +362,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "ОВЕН_re_iskra-skh.03_1-ru-71554-1.17_a4.pdf",
     "title": "Барьеры",
     "description": "ОВЕН ИСКРА-СКх Барьеры искрозащиты",
@@ -372,7 +372,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "ОВЕН_re_mk110-h.8d_dn_.4r_m01__1-ru-32746-1.8.pdf",
     "title": "Преобразователи",
     "description": "ОВЕН МК110-224.8Д Модуль дискретного ввода/вывода",
@@ -382,7 +382,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "ОВЕН_re_mv110-1td_mv110-4td_1-ru-32150-1.17.pdf",
     "title": "Преобразователи",
     "description": "ОВЕН МВ110-1ТД, МВ110-4ТД Модуль аналогового ввода",
@@ -392,7 +392,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "ОВЕН_re_mv210-101_1-ru-23540-1.41.pdf",
     "title": "Преобразователи",
     "description": "ОВЕН МВ210-101 Модуль аналогового ввода",
@@ -402,7 +402,7 @@
   {
     "name": "kip",
     "folder": "modul",
-    "urlBase": "../public/kip/modul/",
+    "urlBase": "../library/kip/modul/",
     "file": "ОВЕН_re_mv210-212-214_1-ru-53119-2.7_a4.pdf",
     "title": "Преобразователи",
     "description": "ОВЕН МВ210-212/214 Модуль дискретного ввода",
@@ -412,7 +412,7 @@
   {
     "name": "kip",
     "folder": "other",
-    "urlBase": "../public/kip/other/",
+    "urlBase": "../library/kip/other/",
     "file": "ОВЕН re_trm138v_1-ru-46184-1.22.pdf",
     "title": "Измеритель-регулятор",
     "description": "ОВЕН ТРМ138В",
@@ -422,7 +422,7 @@
   {
     "name": "kip",
     "folder": "other",
-    "urlBase": "../public/kip/other/",
+    "urlBase": "../library/kip/other/",
     "file": "овен_ki_parametry_trm212_045_p_brtd_a3.pdf",
     "title": "Измеритель-регулятор",
     "description": "ОВЕН ТРМ212. Протокол Modbus",
@@ -432,7 +432,7 @@
   {
     "name": "kip",
     "folder": "other",
-    "urlBase": "../public/kip/other/",
+    "urlBase": "../library/kip/other/",
     "file": "ОВЕН_ki_trm200_064.pdf",
     "title": "Измеритель-регулятор",
     "description": "ОВЕН ТРМ200. Измеритель. Краткая инструкция",
@@ -442,7 +442,7 @@
   {
     "name": "kip",
     "folder": "other",
-    "urlBase": "../public/kip/other/",
+    "urlBase": "../library/kip/other/",
     "file": "овен_ki_trm212_153_a3.pdf",
     "title": "Измеритель-регулятор",
     "description": "ОВЕН ТРМ212.ПИД-регулятор. Краткая инструкция",
@@ -452,7 +452,7 @@
   {
     "name": "kip",
     "folder": "other",
-    "urlBase": "../public/kip/other/",
+    "urlBase": "../library/kip/other/",
     "file": "овен_re_trm212_1-ru-20892-1.21.pdf",
     "title": "Измеритель-регулятор",
     "description": "ОВЕН ТРМ212.ПИД-регулятор. Руководство по эксплуатации",
@@ -462,7 +462,7 @@
   {
     "name": "kip",
     "folder": "other",
-    "urlBase": "../public/kip/other/",
+    "urlBase": "../library/kip/other/",
     "file": "Овен_ТРМ200.pdf",
     "title": "Измеритель-регулятор",
     "description": "ОВЕН ТРМ200.Измеритель. Руководство по эксплуатации",
@@ -472,7 +472,7 @@
   {
     "name": "kip",
     "folder": "other",
-    "urlBase": "../public/kip/other/",
+    "urlBase": "../library/kip/other/",
     "file": "Тензодатчик_М50.pdf",
     "title": "Тензодатчик",
     "description": "ТЕНЗО-М. М50. Тензодатчик сжатия мембранного типа",
@@ -482,7 +482,7 @@
   {
     "name": "asutp",
     "folder": "comm",
-    "urlBase": "../public/asutp/comm/",
+    "urlBase": "../library/asutp/comm/",
     "file": "atm41a_atm41b_atm41aups_atm41bups_user_manual_main.pdf",
     "title": "Модемы",
     "description": "ATM41. GSM/GPRS-модем",
@@ -492,7 +492,7 @@
   {
     "name": "asutp",
     "folder": "comm",
-    "urlBase": "../public/asutp/comm/",
+    "urlBase": "../library/asutp/comm/",
     "file": "ICP DAS User_Manual_tGW_700__22899145.pdf",
     "title": "Шлюзы",
     "description": "ICP DAS tGW700, GW-2200",
@@ -502,7 +502,7 @@
   {
     "name": "asutp",
     "folder": "comm",
-    "urlBase": "../public/asutp/comm/",
+    "urlBase": "../library/asutp/comm/",
     "file": "mgate_mb3660.pdf",
     "title": "Шлюзы",
     "description": "MGate MB3660",
@@ -512,7 +512,7 @@
   {
     "name": "asutp",
     "folder": "comm",
-    "urlBase": "../public/asutp/comm/",
+    "urlBase": "../library/asutp/comm/",
     "file": "ОВЕН kr_as5_ic5__1-ru-31210-1.8_a4.pdf",
     "title": "Повторители",
     "description": "ОВЕН АС5. Повторитель сигналов интерфейса RS-485",
@@ -522,7 +522,7 @@
   {
     "name": "asutp",
     "folder": "comm",
-    "urlBase": "../public/asutp/comm/",
+    "urlBase": "../library/asutp/comm/",
     "file": "Овен_kr_as3-m_1-ru-31213-1.7.pdf",
     "title": "Повторители",
     "description": "ОВЕН АС3-M. Автоматический преобразователь интерфейсов RS-232/RS-485",
@@ -532,7 +532,7 @@
   {
     "name": "asutp",
     "folder": "comm",
-    "urlBase": "../public/asutp/comm/",
+    "urlBase": "../library/asutp/comm/",
     "file": "Planet IGS-5225-20T4C2X (20Eht+4SFP).pdf",
     "title": "Коммутаторы",
     "description": "Planet IGS-5225",
@@ -542,7 +542,7 @@
   {
     "name": "asutp",
     "folder": "comm",
-    "urlBase": "../public/asutp/comm/",
+    "urlBase": "../library/asutp/comm/",
     "file": "Planet ISW500T (5 eth).pdf",
     "title": "Коммутаторы",
     "description": "Planet ISW-500T/ISW-800T",
@@ -552,7 +552,7 @@
   {
     "name": "asutp",
     "folder": "comm",
-    "urlBase": "../public/asutp/comm/",
+    "urlBase": "../library/asutp/comm/",
     "file": "Planet_EM-IGS-4215 series_v1.0.pdf",
     "title": "Коммутаторы",
     "description": "Planet IGS-4215",
@@ -562,7 +562,7 @@
   {
     "name": "asutp",
     "folder": "hart",
-    "urlBase": "../public/asutp/hart/",
+    "urlBase": "../library/asutp/hart/",
     "file": "HART_обзор.pdf",
     "title": "HART",
     "description": "HART. Технический обзор",
@@ -572,7 +572,7 @@
   {
     "name": "asutp",
     "folder": "hart",
-    "urlBase": "../public/asutp/hart/",
+    "urlBase": "../library/asutp/hart/",
     "file": "modbus.pdf",
     "title": "ModBus",
     "description": "Протокол ModBus",
@@ -582,7 +582,7 @@
   {
     "name": "asutp",
     "folder": "hart",
-    "urlBase": "../public/asutp/hart/",
+    "urlBase": "../library/asutp/hart/",
     "file": "RS485.pdf",
     "title": "RS-485",
     "description": "Описание стандарта RS485",
@@ -592,7 +592,7 @@
   {
     "name": "asutp",
     "folder": "re",
-    "urlBase": "../public/asutp/re/",
+    "urlBase": "../library/asutp/re/",
     "file": "IRZ ATM_Control_SE_UserGuide_RU.pdf",
     "title": "Руководства",
     "description": "ATM Control SE",
@@ -602,7 +602,7 @@
   {
     "name": "asutp",
     "folder": "comm",
-    "urlBase": "../public/asutp/comm/",
+    "urlBase": "../library/asutp/comm/",
     "file": "IRZ controls_main.pdf",
     "title": "Модемы",
     "description": "IRZ. Руководство по настройке роутеров",
@@ -612,7 +612,7 @@
   {
     "name": "asutp",
     "folder": "re",
-    "urlBase": "../public/asutp/re/",
+    "urlBase": "../library/asutp/re/",
     "file": "Логика prolog_34_15_v3_15_0_man.pdf",
     "title": "Руководства",
     "description": "Логика ПРОЛОГ. Руководство пользвоателя",
@@ -622,7 +622,7 @@
   {
     "name": "asutp",
     "folder": "re",
-    "urlBase": "../public/asutp/re/",
+    "urlBase": "../library/asutp/re/",
     "file": "ОВЕН_opisanie_raboti_s_programmoi_konfigurator_npt.pdf",
     "title": "Руководства",
     "description": "ОВЕН Конфигуратор НПТ",
@@ -632,7 +632,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/et200/",
+    "urlBase": "../library/asutp/siemens/et200/",
     "file": "et200sp_base_units_manual_en-US_en-US.pdf",
     "title": "ET-200",
     "description": "Base Unit. Equipment Manual",
@@ -642,7 +642,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/et200/",
+    "urlBase": "../library/asutp/siemens/et200/",
     "file": "et200sp_manual_collection_en-US.pdf",
     "title": "ET-200",
     "description": "Automation System ET200SP. Manual Collection",
@@ -652,7 +652,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/et200/",
+    "urlBase": "../library/asutp/siemens/et200/",
     "file": "et200sp_system_manual_en-US_en-US.pdf",
     "title": "ET-200",
     "description": "Distributed I/O system ET 200SP. System Manual",
@@ -662,7 +662,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "Hans_Berger_-_Automating_with_SIMATIC_S7-1500_Configuring_Programming_and_Testing.pdf",
     "title": "S7-1500",
     "description": "Automating with Simatic S7-1500. Hans Berger",
@@ -672,7 +672,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "siemens_S7-1500 CPU 1512c-1.pdf",
     "title": "S7-1500",
     "description": "Руководство. Ответы для промышленности.",
@@ -682,7 +682,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "siemens_s7-1500_system_manual.pdf",
     "title": "S7-1500",
     "description": "System Manual.",
@@ -692,7 +692,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "Siemens_s71500_cpu1515_2_pn_manual_en-US_en-US.pdf",
     "title": "S7-1500",
     "description": "Equipment Manual.",
@@ -702,7 +702,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "siemens_simatic_s7_1500_manual.pdf",
     "title": "S7-1500",
     "description": "Программируемые контроллеры S7-1500",
@@ -712,7 +712,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "Siemens_CPU22X_r.pdf",
     "title": "S7-200",
     "description": "Системное руководство",
@@ -722,7 +722,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "Siemens_s7-1200_system_manual.pdf",
     "title": "S7-1200",
     "description": "System Manual",
@@ -732,7 +732,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "Siemens_Safety_TIA_Portal.pdf",
     "title": "TIA Portal",
     "description": "SIMATIC Safety - Configuring and Programming",
@@ -742,7 +742,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "siemens_ wincc v7 getting started.pdf",
     "title": "SIMATIC WinCC",
     "description": "V7.0 Getting Started",
@@ -752,7 +752,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "Siemens_Manual - WinCC Unified Engineering V16 - Runtime.pdf",
     "title": "SIMATIC WinCC",
     "description": "Engineering V16 - Runtime Unified",
@@ -762,7 +762,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "Siemens_WinCC_Advanced_V13_SP2_Prog_enUS_en-US.pdf",
     "title": "SIMATIC WinCC",
     "description": "Advanced V13 SP2 - Programming reference",
@@ -772,7 +772,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "Siemens_WinCC_Communication_en-US_en-US.pdf",
     "title": "SIMATIC WinCC",
     "description": "V7.3 Communication",
@@ -782,7 +782,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "Siemens_WinCC_Configuration_en-US_en-US.pdf",
     "title": "SIMATIC WinCC",
     "description": "V7.4 Configuration",
@@ -792,7 +792,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "siemens_wincc_scripting.pdf",
     "title": "SIMATIC WinCC",
     "description": "V7.4 Scripting",
@@ -802,7 +802,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/",
     "file": "simatic-hmi-wincc-v7-4-basic-options-webnavigator.pdf",
     "title": "SIMATIC WinCC",
     "description": "V7.4 WebNavigator,DataMonitor, WebUX",
@@ -812,7 +812,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Alarms_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Конфигурация системы сообщений",
@@ -822,7 +822,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 AlarmsArchives_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Система архивации сообщений",
@@ -832,7 +832,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 AlarmsControlV7_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Отображение сообщений в среде исполнения",
@@ -842,7 +842,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 APDiag_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Диагностика WinCC",
@@ -852,7 +852,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Archives_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Архивирование значений процессов",
@@ -862,7 +862,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 ArchiveServer_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Сервер архивов",
@@ -872,7 +872,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Authorization_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Лицензирование",
@@ -882,7 +882,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 CCConfigurationTool_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Средство конфигурирования WinCC",
@@ -892,7 +892,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 CCWinCCArchive_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "WinCC Archive Configuration Tool",
@@ -902,7 +902,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 ComProvider_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "COM-провайдер в редакторе макетов",
@@ -912,7 +912,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Distribution_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Многопользовательские системы",
@@ -922,7 +922,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Dynamics_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Динамика кадров процесса",
@@ -932,7 +932,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 EthernetIP_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Allen Bradley - Ethernet IP",
@@ -942,7 +942,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 FunctionTrendControlV7_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Process Value Output as a Function of Another Tag",
@@ -952,7 +952,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 GettingStarted_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Начало работы",
@@ -962,7 +962,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 GlobalScript_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "ANSI-C для создания функций и макросов",
@@ -972,7 +972,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 InstallNotes_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Примечание по установке",
@@ -982,7 +982,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 IntegrationS7_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Интеграция WinCC в приложение SIMATIC Manager",
@@ -992,7 +992,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Languages_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Настройка многоязычных проектов",
@@ -1002,7 +1002,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Linelayouts_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Создание построчных макетов",
@@ -1012,7 +1012,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Migration_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Миграция",
@@ -1022,7 +1022,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 ModbusTCPIP_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Modbus TCP/IP",
@@ -1032,7 +1032,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 OnlineTableControlV7_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Вывод значения процесса в формате таблицы",
@@ -1042,7 +1042,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 OnlineTrendControlV7_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Вывод значения процесса в виде трендов в кадрах процесса",
@@ -1052,7 +1052,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Pagelayouts_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Создание макетов страниц",
@@ -1062,7 +1062,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 performance_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Данные о производительности",
@@ -1072,7 +1072,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 ProcessControlRT_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Среда исполнения для управления процессами",
@@ -1082,7 +1082,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 projects_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Работа с проектами",
@@ -1092,7 +1092,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Redundancy_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Резервирование системы",
@@ -1102,7 +1102,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 ReleaseNotes_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Примечание к выпуску",
@@ -1112,7 +1112,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Reports_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Документирование данных конфигурации и среды исполнения",
@@ -1122,7 +1122,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Screens_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Создание кадров процесса",
@@ -1132,7 +1132,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 ServiceMode_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "WINCC Service Mode",
@@ -1142,7 +1142,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 SmartTools_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "SmartTools",
@@ -1152,7 +1152,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 Systemuebersicht_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Обзор системы WinCC",
@@ -1162,7 +1162,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 tags_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Работа с тегами",
@@ -1172,7 +1172,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 UserAdmin_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Структура системы администрирования пользователей",
@@ -1182,7 +1182,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 UserArchives_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Пользовательский архив",
@@ -1192,7 +1192,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../public/asutp/siemens/wincc_7.0/",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
     "file": "siemens wincc 7.0 UserArchivesControlV7_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Элемент управления WinCC UserArchiveControl",

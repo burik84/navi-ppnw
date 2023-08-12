@@ -37,8 +37,6 @@ export const useWindowDimensions = (): WindowDimensions => {
 export const useHandleScroll = () => {
   const [scrollY, getScrollY] = useState<WindowDimensions>();
 
-  // const [scrollY, getScrollY] = useState<WindowDimensions>();
-
   useEffect(() => {
     const handleScroll = () => {
       getScrollY(getWindowDimensionsScroll);
@@ -47,5 +45,5 @@ export const useHandleScroll = () => {
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  return scrollY;
+  return scrollY?scrollY:0;
 };

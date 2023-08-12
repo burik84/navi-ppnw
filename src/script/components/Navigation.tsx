@@ -14,11 +14,6 @@ const Lists: React.FC = (): ReactElement => {
         </NavLink>
       </li>
       <li className="item">
-        <NavLink className={({ isActive }) => "link" + (isActive ? " active" : "")} to="/uku/">
-          УКУ
-        </NavLink>
-      </li>
-      <li className="item">
         <NavLink className={({ isActive }) => "link" + (isActive ? " active" : "")} to="/kip/">
           КИП
         </NavLink>

@@ -81,7 +81,7 @@
   },
   {
     "name": "kip",
-    "folder": "equipment",
+    "folder": "rashod",
     "urlBase": "../library/kip/rashod/",
     "file": "Promass_83F_BA063D06ru1206.pdf",
     "title": "Расходомеры",
@@ -91,7 +91,7 @@
   },
   {
     "name": "kip",
-    "folder": "equipment",
+    "folder": "rashod",
     "urlBase": "../library/kip/rashod/",
     "file": "Логика_СПГ742_v0909.pdf",
     "title": "Корректоры",
@@ -135,7 +135,7 @@
     "urlBase": "../library/kip/power/",
     "file": "Castle_manual-c6-10k(s)-3c10ks.pdf",
     "title": "Источники бесперебойного питания",
-    "description": "SSANTAK серии CASTLE 6K/10K",
+    "description": "SANTAK серии CASTLE 6K/10K",
     "zona": ["Эломер"],
     "isShow": true
   },
@@ -224,7 +224,7 @@
     "folder": "power",
     "urlBase": "../library/kip/power/",
     "file": "powercom pcm2377.pdf",
-    "title": "ккамуляторы для источников бесперебойного питания",
+    "title": "Аккамуляторы для источников бесперебойного питания",
     "description": "POWERCOM pcm2377",
     "zona": [""],
     "isShow": true
@@ -1196,6 +1196,126 @@
     "file": "siemens wincc 7.0 UserArchivesControlV7_ru.pdf",
     "title": "SIMATIC WinCC V7.0",
     "description": "Элемент управления WinCC UserArchiveControl",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "diris-a-30-ru-v2 - прибор учета.pdf",
+    "title": "Мониторинг",
+    "description": "Diris A-30/A-41 Многофункциональное устройство измерения и мониторинга рабочих характеристик",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../library/kip/power/",
+    "file": "ESQ760.pdf",
+    "title": "Преобразователи",
+    "description": "ESQ760. Преобразователь частоты",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../library/kip/power/",
+    "file": "HUANYANG_HY_Rv2.pdf",
+    "title": "Преобразователи",
+    "description": "HUANYANG HY Rv2. Инвертор. Преобразователь общего назначения серии HY",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../library/kip/power/",
+    "file": "Merkweir_MK300.pdf",
+    "title": "Преобразователи",
+    "description": "Merkweir MK300. Frequency Inverter",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "NPEXA_барьеры.pdf",
+    "title": "Барьеры",
+    "description": "NPEXA. Isolated Intrinsic Safety Barrier ",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "NPEXA_барьеры2.pdf",
+    "title": "Барьеры",
+    "description": "NPEXA. Isolated Intrinsic Safety Barrier. Part 2 ",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "rkzm_ps.pdf",
+    "title": "Реле",
+    "description": "РКЗМ. Реле контролья и защиты",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../library/kip/power/",
+    "file": "Битек_instruction_mst110_210.pdf",
+    "title": "Преобразователи",
+    "description": "МикроСТАРТ-Р МСТ-110Р, МСТ-210Р. Пускатель бесконтактный реверсивный",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "equip",
+    "urlBase": "../library/info/equip/",
+    "file": "POLAIR_MM_111_R_Light.pdf",
+    "title": "Преобразователи",
+    "description": "POLAIR MM 111.Машина холодильная моноблочная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "rashod",
+    "urlBase": "../library/kip/rashod/",
+    "file": "Coriolis_flowmeter_manual.pdf",
+    "title": "Расходомеры",
+    "description": "Coriolis Mass flow meter",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "rashod",
+    "urlBase": "../library/kip/rashod/",
+    "file": "Thermal_mass_flow_meter.pdf",
+    "title": "Расходомеры",
+    "description": "Thermal Gas mass flowmeter",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "rashod",
+    "urlBase": "../library/kip/rashod/",
+    "file": "Vortex_Flow_Meter_Manual.pdf",
+    "title": "Расходомеры",
+    "description": "Smart Vortex FlowMeter",
     "zona": [""],
     "isShow": true
   }

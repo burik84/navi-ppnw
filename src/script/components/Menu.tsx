@@ -16,7 +16,7 @@ const kip = [
   ['/kip/temp', 'Температура'],
   ['/kip/level', 'Уровень'],
   ['/kip/modul', 'Барьеры Модули AI/DI/DO'],
-  ['/kip/power', 'ИБП'],
+  ['/kip/power', 'Электрика'],
   ['/kip/drive', 'Привода, клапаны'],
   ['/kip/equip', 'Диагностика'],
   ['/kip/other', 'Разное'],

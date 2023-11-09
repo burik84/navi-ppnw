@@ -1,10 +1,12 @@
-import React from 'react';
+import React,{useEffect} from 'react';
+import { useLocation } from 'react-router-dom';
 
-import { createStyles, Theme } from '@mui/material';
+//import { createStyles, Theme } from '@mui/material';
 import { makeStyles } from 'tss-react/mui';
 import { List, ListItem, ListItemText, ListItemIcon } from '@mui/material';
 import WarningIcon from '@mui/icons-material/Warning';
-// import AndroidIcon from '@mui/icons-material/Android';
+import { AppContextSource } from '../services/AppContext';
+import { GetStaticURL } from '../services/getStaticURL';
 
 import { Header } from '../layout/Header';
 import { Menu } from '../components/Menu';
@@ -34,6 +36,15 @@ const useStyles = makeStyles()((theme) => ({
 
 export const Main: React.FC = () => {
   const classes: Classes = useStyles();
+  // const location = useLocation();
+
+  // useEffect(() => {
+  //   console.log('Current location Main is ', location);
+  // }, [location]);
+  const URL=GetStaticURL("main")
+  const { staticUrl, setStaticUrl } = AppContextSource();
+  setStaticUrl(URL)
+  console.log("context provider url is ", staticUrl);
 
   return (
     <>
@@ -66,7 +77,7 @@ export const Main: React.FC = () => {
         <h4>
           Windows
           <span className="logo">
-            <img src={logoWindows} />
+            <img src={logoWindows} alt="Logo"/>
           </span>
         </h4>
         <ol>

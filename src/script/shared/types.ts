@@ -19,9 +19,11 @@ export interface IAppContext {
   theme?: string;
   source?: [];
   isLoad?: boolean;
+  staticUrl:string
   setSource: any;
   setTheme: any;
   setIsLoad: any;
+  setStaticUrl:any
 }
 export interface FeaturesPageData {
   key: string;

@@ -14,10 +14,10 @@ export const getData = async () => {
   return rawResponse;
 };
 
-function arrayBufferToString(arrayBuffer: any, decoderType = 'utf-8') {
-  const decoder = new TextDecoder(decoderType);
-  return decoder.decode(arrayBuffer);
-}
+// function arrayBufferToString(arrayBuffer: any, decoderType = 'utf-8') {
+//   const decoder = new TextDecoder(decoderType);
+//   return decoder.decode(arrayBuffer);
+// }
 
 const getObj = (str: string | ArrayBuffer) => {
   const strNew = String(str).replace(/\s+/g, ' ');

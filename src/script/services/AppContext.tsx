@@ -14,16 +14,19 @@ export const AppContextProvider = (props: any) => {
   const [source, setSource] = useState<any>([]);
   const [theme, setTheme] = useState<string>('light');
   const [isLoad, setIsLoad] = useState<boolean>(false);
+  const [staticUrl, setStaticUrl] = useState<string>('');
   const value = useMemo(
     () => ({
       isLoad,
       theme,
       source,
+      staticUrl,
       setSource,
       setTheme,
       setIsLoad,
+      setStaticUrl
     }),
-    [isLoad, theme, source],
+    [isLoad, theme, source, staticUrl],
   );
   return <AppContext.Provider value={value} {...props} />;
 };

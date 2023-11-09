@@ -34,6 +34,7 @@ export const Kip: React.FC = () => {
       }
     });
     setListDataTitle(titleArray);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [section]);
 
   return (

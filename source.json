@@ -351,11 +351,11 @@
   },
   {
     "name": "kip",
-    "folder": "modul",
+    "folder": "tenzo",
     "urlBase": "../library/kip/modul/",
     "file": "Овен_MB110-224.4ТД.pdf",
     "title": "Преобразователи",
-    "description": "ОВЕН МВ110-224.1ТД и МВ110-224.ТД Модуль ввод сигналов тензодатчиков",
+    "description": "ОВЕН МВ110-224.1ТД и МВ110-224.ТД Модуль ввода сигналов тензодатчиков",
     "zona": [""],
     "isShow": true
   },
@@ -471,7 +471,7 @@
   },
   {
     "name": "kip",
-    "folder": "other",
+    "folder": "tenzo",
     "urlBase": "../library/kip/other/",
     "file": "Тензодатчик_М50.pdf",
     "title": "Тензодатчик",
@@ -1316,6 +1316,36 @@
     "file": "Vortex_Flow_Meter_Manual.pdf",
     "title": "Расходомеры",
     "description": "Smart Vortex FlowMeter",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "equipment",
+    "urlBase": "../library/info/equip/",
+    "file": "ГОСТ-14202-69.-Трубопроводы-пром.-предпр..-Опознавательная-окраска.pdf",
+    "title": "ГОСТ",
+    "description": "Трубопроводы. Опозновательная окраска. ГОСТ 14202-69",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "tenzo",
+    "urlBase": "../library/kip/other/",
+    "file": "Терминал_весовой_В5.pdf",
+    "title": "Преобразователи",
+    "description": "Терминал весовой B5",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "tenzo",
+    "urlBase": "../library/kip/other/",
+    "file": "УралВес_КСК10.pdf",
+    "title": "Преобразователи",
+    "description": "Преобразователи измерительные КСК10",
     "zona": [""],
     "isShow": true
   }

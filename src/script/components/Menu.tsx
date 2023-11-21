@@ -19,6 +19,7 @@ const kip = [
   ['/kip/power', 'Электрика'],
   ['/kip/drive', 'Привода, клапаны'],
   ['/kip/equip', 'Диагностика'],
+  ['/kip/tenzo', 'Тензометрия'],
   ['/kip/other', 'Разное'],
 ];
 const asutp = [

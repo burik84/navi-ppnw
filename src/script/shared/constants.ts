@@ -22,7 +22,7 @@ export const kipMenu: { [char: string]: string } = {
 };
 
 export const otherMenu: { [char: string]: string } = {
-  otpb: 'instruction',
+  otpb: 'otpb',
   equip: 'equipment',
   map: 'map',
   artical: 'artical',

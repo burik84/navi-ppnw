@@ -712,7 +712,7 @@
   {
     "name": "asutp",
     "folder": "siemens",
-    "urlBase": "../library/asutp/siemens/",
+    "urlBase": "../library/asutp/siemens/S7-200/",
     "file": "Siemens_CPU22X_r.pdf",
     "title": "S7-200",
     "description": "Системное руководство",
@@ -1201,8 +1201,8 @@
   },
   {
     "name": "kip",
-    "folder": "modul",
-    "urlBase": "../library/kip/modul/",
+    "folder": "power",
+    "urlBase": "../library/kip/power/",
     "file": "diris-a-30-ru-v2 - прибор учета.pdf",
     "title": "Мониторинг",
     "description": "Diris A-30/A-41 Многофункциональное устройство измерения и мониторинга рабочих характеристик",
@@ -1280,11 +1280,11 @@
     "isShow": true
   },
   {
-    "name": "kip",
-    "folder": "equip",
+    "name": "info",
+    "folder": "equipment",
     "urlBase": "../library/info/equip/",
     "file": "POLAIR_MM_111_R_Light.pdf",
-    "title": "Преобразователи",
+    "title": "Оборудование",
     "description": "POLAIR MM 111.Машина холодильная моноблочная",
     "zona": [""],
     "isShow": true
@@ -1321,8 +1321,8 @@
   },
   {
     "name": "info",
-    "folder": "equipment",
-    "urlBase": "../library/info/equip/",
+    "folder": "otpb",
+    "urlBase": "../library/info/otpb/",
     "file": "ГОСТ-14202-69.-Трубопроводы-пром.-предпр..-Опознавательная-окраска.pdf",
     "title": "ГОСТ",
     "description": "Трубопроводы. Опозновательная окраска. ГОСТ 14202-69",
@@ -1346,6 +1346,96 @@
     "file": "УралВес_КСК10.pdf",
     "title": "Преобразователи",
     "description": "Преобразователи измерительные КСК10",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "rashod",
+    "urlBase": "../library/kip/rashod/",
+    "file": "promassf300_inst_ba01507dru_0321.pdf",
+    "title": "Расходомеры",
+    "description": "Promass F300. Расходомер массовый",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "other",
+    "urlBase": "../library/diagrams/other/",
+    "file": "Палетообмотчик S7-200 Smart-Модель.pdf",
+    "title": "Общее",
+    "description": "Палетообмотчик S7-200. Схема электирческая принципиальная.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "temp",
+    "urlBase": "../library/kip/temp/",
+    "file": "ПЭЛЗ_mprt11.pdf",
+    "title": "Терморегуляторы",
+    "description": "ПЭЛЗ МПРТ 11. Терморегулятор электронный микропроцессорный",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "siemens",
+    "urlBase": "../library/asutp/siemens/S7-200/",
+    "file": "Siemens_S7-200_1Steps_r.pdf",
+    "title": "S7-200",
+    "description": "Simatic S7. Первые шаги в PLC S7-200",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "siemens",
+    "urlBase": "../library/asutp/siemens/S7-200/",
+    "file": "siemens_s7-200-smart-system-manual-en-us.pdf",
+    "title": "S7-200",
+    "description": "S7-200 Smart. System Manual",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "siemens",
+    "urlBase": "../library/asutp/siemens/wincc_7.0/",
+    "file": "siemens_chndiag_ru.pdf",
+    "title": "SIMATIC WinCC V7.0",
+    "description": "Связь диагностика",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "equipment",
+    "urlBase": "../library/info/equip/",
+    "file": "mam-880.pdf",
+    "title": "Компрессора",
+    "description": "Контроллер винтового воздушного компрессора MAM-880",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "server",
+    "urlBase": "../library/asutp/server/",
+    "file": "MasterOPC.pdf",
+    "title": "OPC",
+    "description": "MasterOPC Server. Документация",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "other",
+    "urlBase": "../library/kip/other/",
+    "file": "datalogic_s6_instr.pdf",
+    "title": "Датчики",
+    "description": "Datalogic s6 series. Фотоэлектрический датчик.",
     "zona": [""],
     "isShow": true
   }

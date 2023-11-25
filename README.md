@@ -3,13 +3,15 @@
 | Comment | Date |ver. |
 | ------ | ------ |------ |
 | update | 01.08.2023 | v0.01.00 |
+| update | 01.01.2024 | v0.01.01 |
 
 ## Support
 
 - dist // files and folder for production
   - assets  // files and folder to work locale
     - fonts
-- public // static files and folder for works Application
+- public // static files and folder for works Application - Not used!
+- library // static files and folder for works Application
 - src // files and folder for development
   - assets // files and folder for compilation
   - script // files scripts .tsx
@@ -21,8 +23,8 @@
 - React
 - Typescript
 - SCSS
-- Eslint
-- Prettier
+<!-- - Eslint -->
+<!-- - Prettier -->
 
 ## Prerequisites
 
@@ -44,12 +46,11 @@ npm install
 ### Running application
 
 ```cmd
-npm run dev //mode developer
 npm run build //mode production
-npm run serve //start watch to files and start live server in mode developer
+npm run start //start watch to files and start live server in mode developer
 ```
 
-Check file from Eslint in folder src before running app
+<!-- Check file from Eslint in folder src before running app
 
 ```cmd
 npm run lint
@@ -59,7 +60,7 @@ Check and Write file Prettier in folder src before running app
 
 ```cmd
 npm run prettier
-```
+``` -->
 
 ## Use
 
@@ -77,6 +78,6 @@ I see the further development of the project -
 Before using
 
 - create folder with any name (etc. Navi)
-- copy folder public and dist in new folder (Navi), but first use mode production (Running application)
-- open folder dist
+- copy folder library and build in new folder (Navi), but first use mode production (Running application)
+- open folder build
 - run index.html

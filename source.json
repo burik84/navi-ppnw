@@ -343,9 +343,9 @@
     "name": "kip",
     "folder": "modul",
     "urlBase": "../library/kip/modul/",
-    "file": "ОВЕН re_npt-1k.00.1.3_2815_a4.pdf",
+    "file": "ОВЕН_ekspluatacii_iskra-at-ts-tp03.pdf",
     "title": "Барьеры",
-    "description": "ОВЕН ИСКРА Барьеры искрозащиты",
+    "description": "ОВЕН ИСКРА-хх. Барьеры искрозащиты",
     "zona": [""],
     "isShow": true
   },
@@ -354,7 +354,7 @@
     "folder": "tenzo",
     "urlBase": "../library/kip/modul/",
     "file": "Овен_MB110-224.4ТД.pdf",
-    "title": "Преобразователи",
+    "title": "Модули",
     "description": "ОВЕН МВ110-224.1ТД и МВ110-224.ТД Модуль ввода сигналов тензодатчиков",
     "zona": [""],
     "isShow": true
@@ -374,7 +374,7 @@
     "folder": "modul",
     "urlBase": "../library/kip/modul/",
     "file": "ОВЕН_re_mk110-h.8d_dn_.4r_m01__1-ru-32746-1.8.pdf",
-    "title": "Преобразователи",
+    "title": "Модули",
     "description": "ОВЕН МК110-224.8Д Модуль дискретного ввода/вывода",
     "zona": [""],
     "isShow": true
@@ -384,7 +384,7 @@
     "folder": "modul",
     "urlBase": "../library/kip/modul/",
     "file": "ОВЕН_re_mv110-1td_mv110-4td_1-ru-32150-1.17.pdf",
-    "title": "Преобразователи",
+    "title": "Модули",
     "description": "ОВЕН МВ110-1ТД, МВ110-4ТД Модуль аналогового ввода",
     "zona": [""],
     "isShow": true
@@ -394,7 +394,7 @@
     "folder": "modul",
     "urlBase": "../library/kip/modul/",
     "file": "ОВЕН_re_mv210-101_1-ru-23540-1.41.pdf",
-    "title": "Преобразователи",
+    "title": "Модули",
     "description": "ОВЕН МВ210-101 Модуль аналогового ввода",
     "zona": [""],
     "isShow": true
@@ -404,15 +404,15 @@
     "folder": "modul",
     "urlBase": "../library/kip/modul/",
     "file": "ОВЕН_re_mv210-212-214_1-ru-53119-2.7_a4.pdf",
-    "title": "Преобразователи",
+    "title": "Модули",
     "description": "ОВЕН МВ210-212/214 Модуль дискретного ввода",
     "zona": [""],
     "isShow": true
   },
   {
     "name": "kip",
-    "folder": "other",
-    "urlBase": "../library/kip/other/",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
     "file": "ОВЕН re_trm138v_1-ru-46184-1.22.pdf",
     "title": "Измеритель-регулятор",
     "description": "ОВЕН ТРМ138В",
@@ -421,8 +421,8 @@
   },
   {
     "name": "kip",
-    "folder": "other",
-    "urlBase": "../library/kip/other/",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
     "file": "овен_ki_parametry_trm212_045_p_brtd_a3.pdf",
     "title": "Измеритель-регулятор",
     "description": "ОВЕН ТРМ212. Протокол Modbus",
@@ -431,8 +431,8 @@
   },
   {
     "name": "kip",
-    "folder": "other",
-    "urlBase": "../library/kip/other/",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
     "file": "ОВЕН_ki_trm200_064.pdf",
     "title": "Измеритель-регулятор",
     "description": "ОВЕН ТРМ200. Измеритель. Краткая инструкция",
@@ -441,28 +441,28 @@
   },
   {
     "name": "kip",
-    "folder": "other",
-    "urlBase": "../library/kip/other/",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
     "file": "овен_ki_trm212_153_a3.pdf",
     "title": "Измеритель-регулятор",
-    "description": "ОВЕН ТРМ212.ПИД-регулятор. Краткая инструкция",
+    "description": "ОВЕН ТРМ212. ПИД-регулятор. Краткая инструкция",
     "zona": [""],
     "isShow": true
   },
   {
     "name": "kip",
-    "folder": "other",
-    "urlBase": "../library/kip/other/",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
     "file": "овен_re_trm212_1-ru-20892-1.21.pdf",
     "title": "Измеритель-регулятор",
-    "description": "ОВЕН ТРМ212.ПИД-регулятор. Руководство по эксплуатации",
+    "description": "ОВЕН ТРМ212. ПИД-регулятор. Руководство по эксплуатации",
     "zona": [""],
     "isShow": true
   },
   {
     "name": "kip",
-    "folder": "other",
-    "urlBase": "../library/kip/other/",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
     "file": "Овен_ТРМ200.pdf",
     "title": "Измеритель-регулятор",
     "description": "ОВЕН ТРМ200.Измеритель. Руководство по эксплуатации",
@@ -753,29 +753,9 @@
     "name": "asutp",
     "folder": "siemens",
     "urlBase": "../library/asutp/siemens/",
-    "file": "Siemens_Manual - WinCC Unified Engineering V16 - Runtime.pdf",
-    "title": "SIMATIC WinCC",
-    "description": "Engineering V16 - Runtime Unified",
-    "zona": [""],
-    "isShow": true
-  },
-  {
-    "name": "asutp",
-    "folder": "siemens",
-    "urlBase": "../library/asutp/siemens/",
-    "file": "Siemens_WinCC_Advanced_V13_SP2_Prog_enUS_en-US.pdf",
-    "title": "SIMATIC WinCC",
-    "description": "Advanced V13 SP2 - Programming reference",
-    "zona": [""],
-    "isShow": true
-  },
-  {
-    "name": "asutp",
-    "folder": "siemens",
-    "urlBase": "../library/asutp/siemens/",
     "file": "Siemens_WinCC_Communication_en-US_en-US.pdf",
     "title": "SIMATIC WinCC",
-    "description": "V7.3 Communication",
+    "description": "WinCC V7.4 Communication",
     "zona": [""],
     "isShow": true
   },
@@ -785,17 +765,7 @@
     "urlBase": "../library/asutp/siemens/",
     "file": "Siemens_WinCC_Configuration_en-US_en-US.pdf",
     "title": "SIMATIC WinCC",
-    "description": "V7.4 Configuration",
-    "zona": [""],
-    "isShow": true
-  },
-  {
-    "name": "asutp",
-    "folder": "siemens",
-    "urlBase": "../library/asutp/siemens/",
-    "file": "siemens_wincc_scripting.pdf",
-    "title": "SIMATIC WinCC",
-    "description": "V7.4 Scripting",
+    "description": "WinCC V7.4 V7.4 Configuration",
     "zona": [""],
     "isShow": true
   },
@@ -805,7 +775,7 @@
     "urlBase": "../library/asutp/siemens/",
     "file": "simatic-hmi-wincc-v7-4-basic-options-webnavigator.pdf",
     "title": "SIMATIC WinCC",
-    "description": "V7.4 WebNavigator,DataMonitor, WebUX",
+    "description": "WinCC V7.4 WebNavigator,DataMonitor, WebUX",
     "zona": [""],
     "isShow": true
   },
@@ -1436,6 +1406,106 @@
     "file": "datalogic_s6_instr.pdf",
     "title": "Датчики",
     "description": "Datalogic s6 series. Фотоэлектрический датчик.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "power",
+    "urlBase": "../library/kip/power/",
+    "file": "Delta_VFD-EL_UM_RU_[fullver2016].pdf",
+    "title": "Преобразователи",
+    "description": "Delta VFD-EL. Преобразователь частоты серии VFD-EL",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "siemens",
+    "urlBase": "../library/asutp/siemens/",
+    "file": "Siemens 35840700_archivexport_en.pdf",
+    "title": "SIMATIC WinCC",
+    "description": "Export of WinCC/CAS Archive Data to Excell",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "siemens",
+    "urlBase": "../library/asutp/siemens/",
+    "file": "Siemens using-visual-basic-script-in-wincc.pdf",
+    "title": "SIMATIC WinCC",
+    "description": "Using visual basic script in wincc",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "siemens",
+    "urlBase": "../library/asutp/siemens/",
+    "file": "Siemens WinCC V7.4 SP1 Scripting.pdf",
+    "title": "SIMATIC WinCC",
+    "description": "WinCC V7.4 Scripting (VBS, ANSI-C, VBA)",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "equipment",
+    "urlBase": "../library/info/equip/",
+    "file": "robopac_manual-rotoplat-_rus_.pdf",
+    "title": "Палетообмотчик ROBOPAC",
+    "description": "ROBOPAC. ROTOPLAT - ROTOPLAT TP. RUS",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "equipment",
+    "urlBase": "../library/info/equip/",
+    "file": "RoboPAC_EcoPlat-Plus-User-Manual.pdf",
+    "title": "Палетообмотчик ROBOPAC",
+    "description": "ROBOPAC. ECOPLAT BASE/FRD. ENG",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "comm",
+    "urlBase": "../library/asutp/comm/",
+    "file": "ОВЕН_kr_as4_m01__1-ru-31211-1.5_a4.pdf",
+    "title": "Повторители",
+    "description": "ОВЕН АС4. Преобразователь интерфейса RS-485 - USB",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "ОВЕН_re_trm202_1-ru-20600-1.22.pdf",
+    "title": "Измеритель-регулятор",
+    "description": "ОВЕН ТРМ202. Измеритель - регулятор двухканальный",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "ОВЕН_re_si30_1-ru-18897-1.12.pdf",
+    "title": "Счетчики",
+    "description": "ОВЕН СИ30. Счетчик импульсов",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "ОВЕН_re_mk210-302312_1-ru-36538-2.10_a4.pdf",
+    "title": "Модули",
+    "description": "ОВЕН МК210-302/312 Модуль дискретного ввода/вывода",
     "zona": [""],
     "isShow": true
   }

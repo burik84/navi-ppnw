@@ -27,7 +27,7 @@ const asutp = [
   ['/asutp/server', "Server's"],
   ['/asutp/siemens', 'Siemens'],
   ['/asutp/hart', 'Hart Modbus RS'],
-  ['/asutp/comm', 'Comminaction'],
+  ['/asutp/comm', 'Communication'],
 ];
 
 const info = [

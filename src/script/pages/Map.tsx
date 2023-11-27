@@ -80,7 +80,7 @@ export const Map: React.FC = () => {
               <Link to="/asutp/hart">Hart Modbus RS</Link>
             </li>
             <li className="map__item">
-              <Link to="/asutp/comm">communication</Link>
+              <Link to="/asutp/comm">Communication</Link>
             </li>
           </ul>
         </div>

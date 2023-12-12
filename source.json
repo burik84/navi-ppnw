@@ -1330,16 +1330,6 @@
     "isShow": true
   },
   {
-    "name": "scheme",
-    "folder": "other",
-    "urlBase": "../library/diagrams/other/",
-    "file": "Палетообмотчик S7-200 Smart-Модель.pdf",
-    "title": "Общее",
-    "description": "Палетообмотчик S7-200. Схема электирческая принципиальная.",
-    "zona": [""],
-    "isShow": true
-  },
-  {
     "name": "kip",
     "folder": "temp",
     "urlBase": "../library/kip/temp/",

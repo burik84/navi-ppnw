@@ -1291,8 +1291,8 @@
   },
   {
     "name": "info",
-    "folder": "otpb",
-    "urlBase": "../library/info/otpb/",
+    "folder": "artical",
+    "urlBase": "../library/info/artical/",
     "file": "ГОСТ-14202-69.-Трубопроводы-пром.-предпр..-Опознавательная-окраска.pdf",
     "title": "ГОСТ",
     "description": "Трубопроводы. Опозновательная окраска. ГОСТ 14202-69",
@@ -1506,6 +1506,146 @@
     "file": "ОВЕН_re_mk210-302312_1-ru-36538-2.10_a4.pdf",
     "title": "Модули",
     "description": "ОВЕН МК210-302/312 Модуль дискретного ввода/вывода",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "Паспорт-ТЕРМ-2000.pdf",
+    "title": "Измеритель-регулятор",
+    "description": "ТЕРМ-2000 Программируемый терморегулятор",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "RTM-2000_manual.pdf",
+    "title": "Измеритель-регулятор",
+    "description": "RTM-2000 Регулятор температуры электронный",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "elomer",
+    "urlBase": "../library/diagrams/elomer/",
+    "file": "Температура пара Щиток.pdf",
+    "title": "ОЭиКр",
+    "description": "Температура пара Щиток. Схема электрическая принципиальная.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "other",
+    "urlBase": "../library/diagrams/other/",
+    "file": "Палетообмотчик S7-200 Smart.pdf",
+    "title": "Локальные системы",
+    "description": "Палетообмотчик. Выполнен на PLC Siemens S7-200 Smart. Схема электрическая принципиальная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "elomer",
+    "urlBase": "../library/diagrams/elomer/",
+    "file": "Клапан-отсекатель 24vdc.pdf",
+    "title": "Серверная",
+    "description": "Клапан-отсекатель 24vdc. Схема электрическая принципиальная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "elomer",
+    "urlBase": "../library/diagrams/elomer/",
+    "file": "Регулятор 24VDC.pdf",
+    "title": "Серверная",
+    "description": "Регулятор 24VDC. Схема электрическая принципиальная.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "elomer",
+    "urlBase": "../library/diagrams/elomer/",
+    "file": "эл.принципиальная сигнализация Эломер.pdf",
+    "title": "Серверная",
+    "description": "Сигнализация светозвуковая на Эломер. Схема электрическая принципиальная.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "elomer",
+    "urlBase": "../library/diagrams/elomer/",
+    "file": "Распределенное питание ОЭ.pdf",
+    "title": "ОЭиКр",
+    "description": "Распределенное питание ОЭ. Схема электрическая принципиальная.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "elomer",
+    "urlBase": "../library/diagrams/elomer/",
+    "file": "Распределенное питание РО.pdf",
+    "title": "Серверная",
+    "description": "Распределенное питание РО. Схема электрическая принципиальная.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "elomer",
+    "urlBase": "../library/diagrams/elomer/",
+    "file": "Электродвигатель.pdf",
+    "title": "Серверная",
+    "description": "Электродвигатель. Схема электрическая принципиальная.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "artical",
+    "urlBase": "../library/info/artical/",
+    "file": "ПРИКАЗ 15.12.2020 N534 ФНП ПБ ПРАВИЛА БЕЗОП.НЕФТЯНОЙ ГАЗОВОЙ ПРОМЫШЛЕННОСТИ 2023-01-31.pdf",
+    "title": "Приказы",
+    "description": "№534 Правила безопасности в нефтяной и газовой промышленности",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "artical",
+    "urlBase": "../library/info/artical/",
+    "file": "Приказ Ростехнадзора от 11 марта 2013 года № 96.pdf",
+    "title": "Приказы",
+    "description": "№96 Общие правила взрывобезопасности для взрывопожароопасных химических, нефтехимических и нефтеперерабатывающих производств",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "artical",
+    "urlBase": "../library/info/artical/",
+    "file": "Приказ Ростехнадзора от 15.12.2020 N 533 Об утверждении федеральных норм и правил в области.pdf",
+    "title": "Приказы",
+    "description": "№533 Общие правила взрывобезопасности для взрывопожароопасных химических, нефтехимических и нефтеперерабатывающих производств",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "artical",
+    "urlBase": "../library/info/artical/",
+    "file": "116фз.pdf",
+    "title": "Приказы",
+    "description": "№116-ФЗ О промышленной безопасности опасных производственных объектов",
     "zona": [""],
     "isShow": true
   }

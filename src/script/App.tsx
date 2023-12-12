@@ -31,8 +31,8 @@ export function App(): JSX.Element {
           <Routes>
             <Route path="/about" element={<About/>} />
             <Route path="/map" element={<Map/>} />
-            <Route path="/scheme/:section" element={<Scheme/>} />
-            <Route path="/scheme/" element={<Scheme/>} />
+            <Route path="/diagrams/:section" element={<Scheme/>} />
+            <Route path="/diagrams/" element={<Scheme/>} />
             <Route path="/kip/:section" element={<Kip/>} />
             <Route path="/kip" element={<Kip/>} />
             <Route path="/asutp/:section" element={<Asutp/>} />

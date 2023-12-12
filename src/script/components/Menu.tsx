@@ -2,11 +2,11 @@ import React from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
 import { AppContextSource } from '../services/AppContext';
 
-const schemes = [
-  ['/scheme/pkb', 'ПКБ'],
-  ['/scheme/elomer', 'Эломер'],
-  ['/scheme/other', 'Общее'],
-  ['/scheme/experiment', 'ЭУ'],
+const scheme = [
+  ['/diagrams/pkb', 'ПКБ'],
+  ['/diagrams/elomer', 'Эломер'],
+  ['/diagrams/other', 'Общее'],
+  ['/diagrams/experiment', 'ЭУ'],
 ];
 
 const kip = [
@@ -34,7 +34,7 @@ const info = [
   ['/info/otpb', 'ОТ, ПБ'],
   ['/info/equip', 'Технологическое оборудование, инструкции'],
   ['/info/map', 'Схемы технологические, карта площадки'],
-  ['/info/artic', 'Статьи'],
+  ['/info/artical', 'Статьи'],
   ['/info/reglament', 'Регламенты'],
 ];
 
@@ -83,7 +83,7 @@ const listItems = (name: string) => {
       ));
       break;
     default:
-      lists = schemes.map((item) => (
+      lists = scheme.map((item) => (
         <li key={item[0]}>
           <NavLink to={item[0]} className={({ isActive }) => "menu__link" + (isActive ? " active" : "")}>
             {item[1]}

@@ -481,7 +481,7 @@
   },
   {
     "name": "asutp",
-    "folder": "comm",
+    "folder": "communication",
     "urlBase": "../library/asutp/comm/",
     "file": "atm41a_atm41b_atm41aups_atm41bups_user_manual_main.pdf",
     "title": "Модемы",
@@ -491,8 +491,8 @@
   },
   {
     "name": "asutp",
-    "folder": "comm",
-    "urlBase": "../library/asutp/comm/",
+    "folder": "communication",
+    "urlBase": "../library/asutp/communication/",
     "file": "ICP DAS User_Manual_tGW_700__22899145.pdf",
     "title": "Шлюзы",
     "description": "ICP DAS tGW700, GW-2200",
@@ -501,7 +501,7 @@
   },
   {
     "name": "asutp",
-    "folder": "comm",
+    "folder": "communication",
     "urlBase": "../library/asutp/comm/",
     "file": "mgate_mb3660.pdf",
     "title": "Шлюзы",
@@ -511,7 +511,7 @@
   },
   {
     "name": "asutp",
-    "folder": "comm",
+    "folder": "communication",
     "urlBase": "../library/asutp/comm/",
     "file": "ОВЕН kr_as5_ic5__1-ru-31210-1.8_a4.pdf",
     "title": "Повторители",
@@ -521,7 +521,7 @@
   },
   {
     "name": "asutp",
-    "folder": "comm",
+    "folder": "communication",
     "urlBase": "../library/asutp/comm/",
     "file": "Овен_kr_as3-m_1-ru-31213-1.7.pdf",
     "title": "Повторители",
@@ -531,7 +531,7 @@
   },
   {
     "name": "asutp",
-    "folder": "comm",
+    "folder": "communication",
     "urlBase": "../library/asutp/comm/",
     "file": "Planet IGS-5225-20T4C2X (20Eht+4SFP).pdf",
     "title": "Коммутаторы",
@@ -541,7 +541,7 @@
   },
   {
     "name": "asutp",
-    "folder": "comm",
+    "folder": "communication",
     "urlBase": "../library/asutp/comm/",
     "file": "Planet ISW500T (5 eth).pdf",
     "title": "Коммутаторы",
@@ -551,7 +551,7 @@
   },
   {
     "name": "asutp",
-    "folder": "comm",
+    "folder": "communication",
     "urlBase": "../library/asutp/comm/",
     "file": "Planet_EM-IGS-4215 series_v1.0.pdf",
     "title": "Коммутаторы",
@@ -591,7 +591,7 @@
   },
   {
     "name": "asutp",
-    "folder": "re",
+    "folder": "instruction",
     "urlBase": "../library/asutp/re/",
     "file": "IRZ ATM_Control_SE_UserGuide_RU.pdf",
     "title": "Руководства",
@@ -601,7 +601,7 @@
   },
   {
     "name": "asutp",
-    "folder": "comm",
+    "folder": "communication",
     "urlBase": "../library/asutp/comm/",
     "file": "IRZ controls_main.pdf",
     "title": "Модемы",
@@ -611,7 +611,7 @@
   },
   {
     "name": "asutp",
-    "folder": "re",
+    "folder": "instruction",
     "urlBase": "../library/asutp/re/",
     "file": "Логика prolog_34_15_v3_15_0_man.pdf",
     "title": "Руководства",
@@ -621,7 +621,7 @@
   },
   {
     "name": "asutp",
-    "folder": "re",
+    "folder": "instruction",
     "urlBase": "../library/asutp/re/",
     "file": "ОВЕН_opisanie_raboti_s_programmoi_konfigurator_npt.pdf",
     "title": "Руководства",
@@ -1373,6 +1373,16 @@
     "name": "info",
     "folder": "equipment",
     "urlBase": "../library/info/equip/",
+    "file": "bahr_12_rukovodstvo[unical_su].pdf",
+    "title": "Горелки",
+    "description": "BAHR'12 Паровой котел. Техническое описание",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "equipment",
+    "urlBase": "../library/info/equip/",
     "file": "mam-880.pdf",
     "title": "Компрессора",
     "description": "Контроллер винтового воздушного компрессора MAM-880",
@@ -1461,7 +1471,7 @@
   },
   {
     "name": "asutp",
-    "folder": "comm",
+    "folder": "communication",
     "urlBase": "../library/asutp/comm/",
     "file": "ОВЕН_kr_as4_m01__1-ru-31211-1.5_a4.pdf",
     "title": "Повторители",
@@ -1536,6 +1546,16 @@
     "file": "Палетообмотчик S7-200 Smart.pdf",
     "title": "Локальные системы",
     "description": "Палетообмотчик. Выполнен на PLC Siemens S7-200 Smart. Схема электрическая принципиальная",
+    "zona": [""],
+    "isShow": true
+  }  ,
+  {
+    "name": "scheme",
+    "folder": "other",
+    "urlBase": "../library/diagrams/other/",
+    "file": "Том_3_АК_ЭМ_ЭО_ОПС.pdf",
+    "title": "АСОДУ. Котельная",
+    "description": "Котельная. Разделы АК, ЭМ, ЭО, ОПС",
     "zona": [""],
     "isShow": true
   },
@@ -1636,6 +1656,216 @@
     "file": "116фз.pdf",
     "title": "Приказы",
     "description": "№116-ФЗ О промышленной безопасности опасных производственных объектов",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "artical",
+    "urlBase": "../library/info/artical/",
+    "file": "2.-Условные-графические-обозначения.pdf",
+    "title": "ГОСТ",
+    "description": "Условные графические обозначения",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "instruction",
+    "urlBase": "../library/asutp/re/",
+    "file": "DVP_PrM_RU_2013.pdf",
+    "title": "ПЛК",
+    "description": "DELTA. DVP. Руководство по программированию.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "communication",
+    "urlBase": "../library/asutp/comm/",
+    "file": "moxa_cli_configuration_tool_um_e1_0.pdf",
+    "title": "Шлюзы",
+    "description": "Moxa CLI Configuration TOOL User's",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "communication",
+    "urlBase": "../library/asutp/comm/",
+    "file": "moxa-mgate-mb3000-series-manual-v13_2.pdf",
+    "title": "Шлюзы",
+    "description": "MGATE MB3000. User Manual",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "communication",
+    "urlBase": "../library/asutp/comm/",
+    "file": "moxa-mgate-mb3180-mb3280-mb3480-series-mgate-mb3480-model-qig-v7_2.pdf",
+    "title": "Шлюзы",
+    "description": "MGATE MB3480. Quick Installation Guide",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "other",
+    "urlBase": "../library/diagrams/other/",
+    "file": "Скважина_новая.pdf",
+    "title": "Локальные системы",
+    "description": "Скважина новая. Счетчик. Схема электрическая принципиальная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "equipment",
+    "urlBase": "../library/info/equip/",
+    "file": "Газовая-горелка-Riello-RS-310_M-MZ-RS-410_M-MZ-RS-510_M-MZ-RS-610_M-MZ.-Инструкция-по-монтажу-и-эксплуатации.pdf",
+    "title": "Горелки",
+    "description": "Riello. Вентиляторные газовые горелки",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "equipment",
+    "urlBase": "../library/info/equip/",
+    "file": "Газовая-горелка-Riello-Схемы .pdf",
+    "title": "Горелки",
+    "description": "Riello. Схемы. (Скан)",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "instruction",
+    "urlBase": "../library/asutp/re/",
+    "file": "Weintek_PLC_connection_guide.pdf",
+    "title": "ПЛК",
+    "description": "Weintek. PLC Connection Guide.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "instruction",
+    "urlBase": "../library/asutp/re/",
+    "file": "Weintek_EBPro_Manual_All_In_One.pdf",
+    "title": "ПЛК",
+    "description": "Weintek. EasyBuilder PRO. User Manual",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "analyze",
+    "urlBase": "../library/kip/analyze/",
+    "file": "pkg-4_2-4-s-k.pdf",
+    "title": "Газоанализаторы",
+    "description": "ПКГ-4. Газоанализатор кислорода. РЭ и паспорт",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "siemens",
+    "urlBase": "../library/asutp/siemens/",
+    "file": "S7-1200 Системное руководство.pdf",
+    "title": "S7-1200",
+    "description": "Системное руководство",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "asutp",
+    "folder": "instruction",
+    "urlBase": "../library/asutp/re/",
+    "file": "re_smi2-m.pdf",
+    "title": "Руководства",
+    "description": "ОВЕН. СМИ2-М Панель оператора. Руководство по эксплуатации.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "ОВЕН_re_mu210-403.pdf",
+    "title": "Модули",
+    "description": "ОВЕН МУ210-403. Модуль дискретного вывода",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "modul",
+    "urlBase": "../library/kip/modul/",
+    "file": "ОВЕН_re_mv210-202-204.pdf",
+    "title": "Модули",
+    "description": "ОВЕН МВ210-202/204. Модуль дискретного ввода",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "analyze",
+    "urlBase": "../library/kip/analyze/",
+    "file": "stm-30m-rpe-1.pdf",
+    "title": "Сигнализаторы",
+    "description": "СТМ-30М. Руководство по эксплуатации. Часть 1",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "analyze",
+    "urlBase": "../library/kip/analyze/",
+    "file": "stm-30m-rpe-2.pdf",
+    "title": "Сигнализаторы",
+    "description": "СТМ-30М. Руководство по эксплуатации. Часть 2",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "other",
+    "urlBase": "../library/kip/other/",
+    "file": "US-RS485_manual.pdf",
+    "title": "Датчики",
+    "description": "US-RS485. Датчик контроля параметров окружающей среды. Паспорт",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "kip",
+    "folder": "other",
+    "urlBase": "../library/kip/other/",
+    "file": "US-RS485_ModBus_RTU.pdf",
+    "title": "Датчики",
+    "description": "US-RS485. Краткое описание протокола ModBus/RTU",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "equipment",
+    "urlBase": "../library/info/equip/",
+    "file": "Станция затаривания мягких контейнеров типа Биг-Бэг СЗ-500 серии СтройПак.pdf",
+    "title": "Станции",
+    "description": "СЗ-500. Станция затаривания. Руководство по эксплуатации и Паспорт",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "info",
+    "folder": "equipment",
+    "urlBase": "../library/info/equip/",
+    "file": "Станция фасовки клапанных мешков АЭРОПАК ТУРБО ФС-02.pdf",
+    "title": "Станции",
+    "description": "ФС-02. Фасовочная станция клапанных мешков Руководство по эксплуатации и Паспорт",
     "zona": [""],
     "isShow": true
   }

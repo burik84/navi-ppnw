@@ -1868,5 +1868,215 @@
     "description": "ФС-02. Фасовочная станция клапанных мешков Руководство по эксплуатации и Паспорт",
     "zona": [""],
     "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "elomer",
+    "urlBase": "../library/diagrams/elomer/",
+    "file": "Эломер-Сигнализация эл.принц.pdf",
+    "title": "Серверная",
+    "description": "Сигнализация - звуковая и мигание. Схема электрическая принципиальная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "other",
+    "urlBase": "../library/diagrams/other/",
+    "file": "Точка слива ОЭ - подготовка.pdf",
+    "title": "Проект. Точка слива окиси этилена",
+    "description": "Задание. Шкаф. Схема электрическая",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "other",
+    "urlBase": "../library/diagrams/other/",
+    "file": "74_2024-ТХ принципиальная технологическая схема скан.pdf",
+    "title": "Проект. Точка слива окиси этилена",
+    "description": "Приниципиальная технологическая схема. Скан",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "other",
+    "urlBase": "../library/diagrams/other/",
+    "file": "ТПИ-2024-185-АТХ.pdf",
+    "title": "Проект. Точка слива окиси этилена",
+    "description": "Рабочая документация. Автоматизация технологических решений.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "experiment",
+    "urlBase": "../library/diagrams/experiment/",
+    "file": "Лабор.установка эл.принц. КНР.pdf",
+    "title": "Лабораторная установка. КНР",
+    "description": "Схема электрическая принципиальная.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "kd",
+    "urlBase": "../library/diagrams/kd/",
+    "file": "СВЧ-печь ver1.pdf",
+    "title": "СВЧ-печь",
+    "description": "Схема электрическая принципиальная.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "kd",
+    "urlBase": "../library/diagrams/kd/",
+    "file": "СВЧ-печь ver1 шкаф.pdf",
+    "title": "СВЧ-печь",
+    "description": "Схема монтажная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "kd",
+    "urlBase": "../library/diagrams/kd/",
+    "file": "СВЧ-печь ver1-ОВЕН.pdf",
+    "title": "СВЧ-печь",
+    "description": "Расширение. Установка ВИГАНТ. Схема электрическая принципиальная. Модули ОВЕН (в разработке)",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "К-2022.4-Р-000.000.000-АТХ.pdf",
+    "title": "Техническое перевооружение",
+    "description": "Раздел АТХ. Рабочая документация",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "kd",
+    "urlBase": "../library/diagrams/kd/",
+    "file": "LPG4950 электрическая схема ver2.pdf",
+    "title": "РС-5000",
+    "description": "Схема электрическая принципиальная.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "Вентиляция К1.pdf",
+    "title": "Вентиляция",
+    "description": "Корпус 1. Синтез.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "Вентиляция К2.pdf",
+    "title": "Вентиляция",
+    "description": "Корпус 2. Склад сырья.",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "АСУ ТП СИНТЕЗ ШПАЗ-1 сх.электр.pdf",
+    "title": "ШПАЗ-1",
+    "description": "Схема электрическая принципиальная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "АСУ ТП СИНТЕЗ ШПАЗ-1 функц.pdf",
+    "title": "ШПАЗ-1",
+    "description": "Схема функциональная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "АСУ ТП СИНТЕЗ ШПАЗ-1 сх.подкл.pdf",
+    "title": "ШПАЗ-1",
+    "description": "Схема электрическая подключений",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "АСУ ТП СИНТЕЗ ШПАЗ-1 вид.pdf",
+    "title": "ШПАЗ-1",
+    "description": "Схема монтажная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "АСУ ТП СИНТЕЗ ШПАЗ-2 сх.электр.pdf",
+    "title": "ШПАЗ-2",
+    "description": "Схема электрическая принципиальная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "АСУ ТП СИНТЕЗ ШПАЗ-2 функц.pdf",
+    "title": "ШПАЗ-2",
+    "description": "Схема функциональная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "АСУ ТП СИНТЕЗ ШПАЗ-2 сх.подкл.pdf",
+    "title": "ШПАЗ-2",
+    "description": "Схема электрическая подключений",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "АСУ ТП СИНТЕЗ ШПАЗ-2 вид.pdf",
+    "title": "ШПАЗ-2",
+    "description": "Схема монтажная",
+    "zona": [""],
+    "isShow": true
+  },
+  {
+    "name": "scheme",
+    "folder": "pkb",
+    "urlBase": "../library/diagrams/pkb/",
+    "file": "РС_Сигнализация эл.принц-LS-1.pdf",
+    "title": "РС-1000",
+    "description": "Фасовка. Сигнализация уровня в приемном бункере. Сх.электр.принц.",
+    "zona": [""],
+    "isShow": true
   }
 ]

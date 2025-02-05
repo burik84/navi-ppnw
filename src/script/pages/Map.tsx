@@ -25,6 +25,9 @@ export const Map: React.FC = () => {
               <Link to="/scheme/experiment">ЭУ</Link>
             </li>
             <li className="map__item">
+              <Link to="/scheme/kd">КД</Link>
+            </li>
+            <li className="map__item">
               <Link to="/scheme/other">Остальное</Link>
             </li>
           </ul>

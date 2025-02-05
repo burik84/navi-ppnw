@@ -5,6 +5,7 @@ export const schemeMenu: { [char: string]: string } = {
   pkb: 'pkb',
   elomer: 'elomer',
   experiment: 'experiment',
+  kd: 'kd',
   other: 'other',
 };
 export const kipMenu: { [char: string]: string } = {
@@ -39,6 +40,7 @@ const nameSchemes = {
   pkb: 'Цех поликарбоксилата',
   elomer: 'Цех Эломер',
   experiment: 'Экспериментальные установки ПКБ и ЭЛОМЕР',
+  kd: 'Комплексные добавки',
   other: 'Другое',
 };
 

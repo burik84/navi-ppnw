@@ -7,6 +7,7 @@ const scheme = [
   ['/diagrams/elomer', 'Эломер'],
   ['/diagrams/other', 'Общее'],
   ['/diagrams/experiment', 'ЭУ'],
+  ['/diagrams/kd', 'КД'],
 ];
 
 const kip = [
